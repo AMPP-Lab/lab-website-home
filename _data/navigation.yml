@@ -10,17 +10,6 @@
   url: "/publications/"
   side: left
 
-- title: Team
-  url: "/team/"
-  side: left
-
-- title: Join
-  url: "/join/"
-  side: left
-  dropdown:
-    - title: "Positions"
-      url: "/join/positions/"
-
 - title: News
   url: "/news/"
   side: left
@@ -28,6 +17,13 @@
   - title: "News Archive"
     url: "/news/archive/"
 
+- title: Join
+  url: "/join/"
+  side: left
+  dropdown:
+    - title: "Positions"
+      url: "/join/positions/"
+      
 - title: Participate
   url: "/participate/"
   side: left
