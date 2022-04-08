@@ -16,15 +16,17 @@ format: frontpage
 *
 {% endcomment %}
 <div class="row t60">
-	{% if page.widget1.image or page.widget1.video or page.widget1.title %}
+	{% if page.widget1.title %}
 		{% include _frontpage-widget.html widget=page.widget1 %}
 	{% endif %}
 
-	{% if page.widget2.image or page.widget2.video or page.widget2.title %}
+
+	{% if page.widget2.title %}
 		{% include _frontpage-widget.html widget=page.widget2 %}
 	{% endif %}
 
-	{% if page.widget3.image or page.widget3.video or page.widget3.title %}
+
+	{% if page.widget3.title %}
 		{% include _frontpage-widget.html widget=page.widget3 %}
 	{% endif %}
 </div><!-- /.row -->
@@ -50,10 +52,20 @@ format: frontpage
 {% endif %}
 
 
+{% comment %}
+*
+* Next, if there is content, spit it out.
+*
+{% endcomment %}
+
+<div class="row">
+    {{ content }}
+</div><!-- /.row -->
+
 
 {% comment %}
 *
-* First check, if there are any posts at all
+* Last check, if there are any posts at all
 *
 {% endcomment %}
 
@@ -98,14 +110,3 @@ format: frontpage
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
 {% endunless %}
-
-
-{% comment %}
-*
-* Finally, if there is content, spit it out.
-*
-{% endcomment %}
-
-<div class="row">
-    {{ content }}
-</div><!-- /.row -->
