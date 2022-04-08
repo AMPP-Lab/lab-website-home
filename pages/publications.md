@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 permalink: "/publications/"
 header:
-    image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
+    image_fullwidth: "smu1.jpeg"
 ---
 
 <div data-magellan-expedition="fixed">
