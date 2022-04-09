@@ -11,36 +11,20 @@ header:
 
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
-    <li data-magellan-arrival="Principal_Investigators"><a href="#Principal_Investigators">Principal Investigators</a></li>
-    <li data-magellan-arrival="Faculty"><a href="#Faculty">Faculty</a></li>
-    <li data-magellan-arrival="Postdoctoral_Researchers"><a href="#Postdoctoral_Researchers">Postdoctoral Researchers</a></li>
+    <li data-magellan-arrival="Principal_Investigator"><a href="#Principal_Investigator">Principal Investigator</a></li>
     <li data-magellan-arrival="Graduate_Students"><a href="#Graduate_Students">Graduate Students</a></li>
-    <li data-magellan-arrival="Staff"><a href="#Staff">Staff</a></li>
-    <li data-magellan-arrival="Students_Interns"><a href="#Students_Interns">Students and Interns</a></li>
+    <li data-magellan-arrival="Research Assistants"><a href="#Research Assistants">Staff</a></li>
     <li data-magellan-arrival="Alumni"><a href="#Alumni">Alumni</a></li>
     <li data-magellan-arrival="Past_Members"><a href="#Past_Members">Past Members</a></li>
   </ul>
 </div>
 
-<h2 data-magellan-destination="Principal_Investigators">Principal Investigators</h2>
-<a name="Principal_Investigators"></a>
+<h2 data-magellan-destination="Principal_Investigator">Principal Investigator</h2>
+<a name="Principal_Investigator"></a>
 
 {% include team_member member_name="Malachi" full_name="Malachi Griffith, PhD" bio='Dr. Griffith is Associate Professor of Medicine (Oncology) and Genetics and Assistant Director of the McDonnell Genome Institute at Washington University. Dr. Griffith’s research is focused on the development of personalized medicine strategies for cancer. He develops bioinformatics tools and methods for the analysis of high throughput sequence data to improve our understanding of cancer biology, treatment and mechanisms of resistance. In past few years, immunogenomics has become a major focus of his research. Dr. Griffith is a co-chair of the Global Alliance for Genomic Health Variant Interpretation for Cancer Consortium. He has published over 90 studies, received numerous research awards and honors and held several large grants from the NIH including a K99/R00 Career Development Award. He has mentored more than 50 bioinformatics trainees and taught more than 500 as an instructor for Cold Spring Harbor Laboratories and the Canadian Bioinformatics Workshops.' image="/assets/img/team/malachi_griffith.jpg" role="Principal Investigator" %}
 
 {% include team_member member_name="Obi" full_name="Obi L. Griffith, PhD" bio='Dr. Griffith is Associate Professor of Medicine (Oncology) and Genetics and Assistant Director of the McDonnell Genome Institute at Washington University. Dr. Griffith’s research is focused on the development of personalized medicine strategies for cancer. He develops bioinformatics tools and methods for the analysis of high throughput sequence data and identification of biomarkers for diagnostic, prognostic and drug response prediction. Dr Griffith is on the board of directors for the Cancer Genomics Committee, Steering Committee for the Global Alliance for Genomic Health, co-chair of the Variant Interpretation for Cancer Consortium, and editorial board for Cell Reports. He has published over 100 studies, received numerous research awards and honors and held several large grants from the NIH including a K22 Transition Career Development Award, U01/U24 for Development of Informatics Technologies for Cancer Research, and others. He has mentored more than 30 bioinformatics trainees and taught hundreds more as an instructor for Cold Spring Harbor Laboratories and the Canadian Bioinformatics Workshops.' image="/assets/img/team/obi_griffith.jpg" role="Principal Investigator" %}
-
-<h2 data-magellan-destination="Faculty">Faculty</h2>
-<a name="Faculty"></a>
-
-{% include team_member member_name="Felicia" full_name="Felicia Gomez, PhD" bio='Dr. Gomez is an Instructor working in collaboration with the Griffith and <a href="http://www.fehnigerlab.org/">Fehniger Laboratories</a> at the McDonnell Genome Institute and The <a href="http://oncology.wustl.edu">Department of Medicine – Division of Oncology</a>. Dr. Gomez is leading a deep sequencing analysis of Hodgkin lymphoma genomes with the goal of describing somatic events characteristic of this malignancy.  Dr. Gomez collaborates with members of the Griffith and Fehniger laboratories, as well was the Washington University Genomics Tumor Board on projects related to the genomics of Hodgkin and Non-Hodgkin lymphomas. Dr. Gomez’s research goals include developing strategies to translate genomic data into improved patient care. She is specifically interested in working toward the inclusion of diverse human populations in translational genomic research. Dr. Gomez also has a leadership role in the Department of Medicine as the co-chair of the Trainee Inclusion and Cultural Awareness Task Force. In this role she works to identify challenges related to diversity and inclusion that Medicine trainees face and the implementation of solutions to these challenges.' image="/assets/img/team/felicia_gomez.jpg" role="Instructor in Medicine" %}
-
-{% include team_member member_name="Kilannin" full_name="Kilannin Krysiak, PhD" bio='Dr. Krysiak is a Fellow of the Laboratory Genetics and Genomics program in the Department of Pathology and Immunology. Her work focuses on the analysis and interpretation of genomic and transcriptomic sequence data produced from a variety of cancer types. Her primary interest is in the use of genomic data to improve the current standards of patient care. Since joining the McDonnell Genome Institute in 2014 she has been involved in comprehensive analysis of cancer patient cohorts as well as small and n-of-1 studies. In collaboration with the Genomics Tumor Board, she has led the analysis of case studies in order to better understand the molecular underpinnings of multiple hematologic cancers. Currently, her primary project is leading the analysis of >400 cases of follicular lymphoma in order to identify genomic events which can predict clinical outcomes for patients with this type of cancer. Applying her experience with these analyses and her predoctoral work on the genetics of myelodysplastic syndromes, she has been part of the team of developers and researchers that created and is actively expanding the open-source, community driven <a href="https://civic.genome.wustl.edu/home">Clinical Interpretations of Variants in Cancer (CIViC) knowledgebase</a>.' image="/assets/img/team/kilannin_krysiak.jpg" role="LGG Fellow" %}
-
-
-<h2 data-magellan-destination="Postdoctoral_Researchers">Postdoctoral Researchers and Fellows</h2>
-<a name="Postdoctoral_Researchers"></a>
-
-{% include team_member member_name="Arpad" full_name="Arpad Danos, PhD" bio='Dr. Danos is a postdoctoral researcher in the Griffith Lab at the McDonnell Genome Institute at Washington University School of Medicine. He received undergraduate degrees in mathematics and physics at the University of Chicago. He performed graduate studies in the fields of Diabetes and Cancer Metabolism and received his PhD from the Committee on Molecular Metabolism and Nutrition and the University of Chicago. He also spent time working in IT as well as teaching science and mathematics, and received the Wayne C. Booth graduate student prize for excellence in teaching while at University of Chicago. His interests include applying and developing mathematical techniques to areas of basic and clinical cancer research, and at the Griffith Lab, his projects include working on the <a href="http://civicdb.org">Clinical Interpretations of Variants in Cancer (CIViC)</a> knowledgebase, as well as characterization of novel mutations important for cancer which exist in non-coding space.' image="/assets/img/team/arpad_danos.jpg" role="Postdoctoral Researcher" %}
 
 <h2 data-magellan-destination="Graduate_Students">Graduate Students</h2>
 <a name="Graduate_Students"></a>
@@ -58,8 +42,8 @@ header:
 
 {% include team_member member_name="Chris" full_name="Christopher J. Yoon" bio="Chris is in the Molecular Genetics and Genomics program and the Medical Scientist Training Program at Washington University in St. Louis. He graduated with a B.S. in Chemical-Biological Engineering from MIT and an M.Phil. degree in computational biology at the University of Cambridge. Before joining the Griffith lab, he spent 3 years at Korea Advanced Institute of Science and Technology (KAIST) to fulfill his military duty as a substituted service for South Korea. Chris' current research interest focuses on understanding various types of human twins using next generation sequencing technologies and developing software tools." image="/assets/img/team/chris_yoon.jpg" role="Graduate Student" %}
 
-<h2 data-magellan-destination="Staff">Staff</h2>
-<a name="Staff"></a>
+<h2 data-magellan-destination="Research Assistants">Research Assistants</h2>
+<a name="Research Assistants"></a>
 
 {% include team_member member_name="Sydney" full_name="Sydney Anderson" bio='Sydney is an undergraduate student at the University of Pittburgh. Sydney joined the lab as part of the Siteman’s Leah Menshouse Springer Summer Opportunities program.' image="/assets/img/team/sydney_anderson.jpg" role="Lab Assistant/Staff Curator" %}
 
@@ -92,13 +76,6 @@ header:
 {% include team_member member_name="Zach" full_name="Zachary L. Skidmore, MEng" bio='Zach is a staff scientist at the McDonnell Genome Institute at Washington University in Saint Louis. His undergraduate work was completed at the Ohio State University where he obtained a B.Sc. in molecular biology. His Graduate work was performed at the University of Illinois where he obtained a M.eng in bioinformatics. His research focus is in the realm of cancer biology where he uses and develops tools and techniques to aid in the analysis and interpretation of cancer sequencing data. He leads maintenance/development on the bioconductor package <a href="https://bioconductor.org/packages/release/bioc/html/GenVisR.html">GenVisR</a>, a graphics program designed to visualize cohort level genomic data. He is the creator and a primary instructor for the <a href="http://genviz.org/">Genomic Data Visualization and Interpretation</a> workshop course and is the webmaster for many of the griffith lab websites. Currently his primary research project is the genomic evaluation of non-cirrhotic hepatocellular carcinoma.' image="/assets/img/team/zachary_skidmore.jpg" role="Staff Scientist/Bioinformatician" %}
 
 {% include team_member member_name="Jason_W" full_name="Jason Walker, BSc, BA, MEng" bio='Jason Walker is a Biomedical Informatics Project Manager at the McDonnell Genome Institute. He works with the Griffith Lab to translate grant objectives and analysis goals into well defined development milestones for software engineers to iterate on projects, achieving consistent progress while maintaining best practices in software development methodologies. His responsibilities include overseeing the integration and adaptation of numerous bioinformatics tools for cancer genomics automated analysis of high-throughput DNA and RNA sequence data. In addition to large-scale research projects, he works with a CLIA licensed laboratory on clinical-grade, CAP-accredited analysis workflows for reporting somatic variants in cancer patient genomes.' image='/assets/img/team/jason_walker.jpg' role='Biomedical Informatics Project Manager' %}
-
-<h2 data-magellan-destination="Students_Interns">Students and Interns</h2>
-<a name="Students_Interns"></a>
-
-{% include team_member member_name="Brian_L" full_name="Brian Li" bio='Brian is a WASHU undergraduate student. Brian is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern' %}
-
-{% include team_member member_name="Anamika" full_name="Anamika Basu" bio='Anamika is a WashU undergraduate student. Anamika is working on a cfDNA project with the lab.' image='/assets/img/team/anamika_basu.jpg' role='Intern' %}
 
 <h2 data-magellan-destination="Alumni">Alumni</h2>
 <a name="Alumni"></a>
