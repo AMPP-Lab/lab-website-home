@@ -27,11 +27,13 @@ header:
 <h2 data-magellan-destination="Graduate_Students">Graduate Students</h2>
 <a name="Graduate_Students"></a>
 
-{% include team_member member_name="Mayson" full_name="Mayson Trujillo" bio='Kelsy is a graduate student in the Molecular Cell Biology program at Washington University in St. Louis. She completed her undergraduate degree at Mercer University in 2016, where she earned a B.S. in Biochemistry and Molecular Biology. she is interested in developing methods to analyze multiple types of sequencing data in order to better understand regulatory mutations and splicing within cancer, with the hope of identifying novel biomarkers. Currently, she is involved with <a href="http://dgidb.org">DGIdb</a>, Regtools, and analysis of large scale clinical cohorts.' image="/lab-website-home/assets/img/team/kelsy_cotto.jpg" role="Graduate Student" %}
+{% include team_member member_name="Mayson" full_name="Mayson Trujillo" bio='[insert Mayson's bio here]' image="/lab-website-home/assets/img/team/mayson_trujillo.png" role="Graduate Student" %}
 
-{% include team_member member_name="Cody" full_name="Cody Ramirez, BSc" bio='Cody is a PhD candidate in the Human and Statistical Genetics program at Washington University in St. Louis. He graduated from St. Edward’s University in 2014 with a degree in Bioinformatics. He is interested in utilizing patient genomic profiles to study and predict personalized immunotherapy treatments through bioinformatic analysis and machine learning models. He is currently focused on characterizing the genetic landscape and identifying personalized treatment plans in follicular lymphoma.' image="/lab-website-home/assets/img/team/malachi_griffith.jpg" role="Graduate Student" %}
+{% include team_member member_name="Alexa" full_name="Alexa Jimenez" bio='[insert Alexa's bio here]' image="/lab-website-home/assets/img/team/alexa_jimenez.jpeg" role="Graduate Student" %}
 
-{% include team_member member_name="Cody" full_name="Cody Ramirez, BSc" bio='Cody is a PhD candidate in the Human and Statistical Genetics program at Washington University in St. Louis. He graduated from St. Edward’s University in 2014 with a degree in Bioinformatics. He is interested in utilizing patient genomic profiles to study and predict personalized immunotherapy treatments through bioinformatic analysis and machine learning models. He is currently focused on characterizing the genetic landscape and identifying personalized treatment plans in follicular lymphoma.' image="/lab-website-home/assets/img/team/malachi_griffith.jpg" role="Graduate Student" %}
+{% include team_member member_name="Caroline" full_name="Caroline Lee" bio='[insert Caroline's bio here]' image="/lab-website-home/assets/img/team/caroline_lee.jpeg" role="Graduate Student" %}
+
+{% include team_member member_name="Elizabeth" full_name="Elizabeth Bell" bio='[insert Elizabeth's bio here]' image="/lab-website-home/assets/img/team/elizabeth_bell.jpeg" role="Graduate Student" %}
 
 <h2 data-magellan-destination="Research Assistants">Research Assistants</h2>
 <a name="Research Assistants"></a>
