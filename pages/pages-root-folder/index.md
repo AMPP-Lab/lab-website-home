@@ -5,7 +5,8 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-
+header:
+    image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -23,15 +24,8 @@ permalink: /index.html
 # this page as active in the topbar navigation
 #
 homepage: true
-header:
-    image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
----
 
-<div class="row">
-  <div class="small-12 columns">
-    <img src="/assets/img/lab_photo_Dec2017_cropped_v2.jpg">
-  </div>
-</div>
+---
 
 ## Research Overview
 The Griffith lab is a collaborative research group driven by the independent and complementary interests of twin scientists Malachi Griffith and Obi Griffith. The focus of the lab is on developing methods of applied bioinformatics for personalized medicine and improved cancer care.
