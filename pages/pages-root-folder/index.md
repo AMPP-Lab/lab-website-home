@@ -27,5 +27,11 @@ homepage: true
 
 ---
 
+<div class="row">
+  <div class="small-12 columns">
+    <img src="/lab-website-home/assets/img/lab_photo.png">
+  </div>
+</div>
+
 ## Research Overview
 Research in the lab is broadly focused on psychopathology and normal-range personality traits.  Much of our work focuses on measurement, structure, and assessment.  In addition, we are interested in how psychopathology and personality relate to each other, whether psychopathology is dimensional or categorical, and how personality changes over time.
