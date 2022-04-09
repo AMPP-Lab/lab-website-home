@@ -24,7 +24,7 @@ permalink: /index.html
 #
 homepage: true
 header:
-    image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
+    image_fullwidth: "lab_logo.png"
 ---
 
 <div class="row">
