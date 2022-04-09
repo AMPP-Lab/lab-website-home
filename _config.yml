@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Assessment, Measurement, Personality, & Psychopathology Lab'
+title: 'AMPP Lab'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: ''
@@ -38,11 +38,11 @@ improve_content: https://github.com/ampp-lab/lab-website-home/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://phlow.github.io/feeling-responsive/images/'
+urlimg: 'https://ampp-lab.github.io/lab-website-home/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: "Site_Logo4.png"
 
 # Plugins
 plugins:
