@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 permalink: "/team/"
 header:
-    image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
+    image_fullwidth: "ampp_header.png"
 ---
 
 <div data-magellan-expedition="fixed">
