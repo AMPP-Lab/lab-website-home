@@ -27,7 +27,7 @@ header:
 <h2 data-magellan-destination="Graduate_Students">Graduate Students</h2>
 <a name="Graduate_Students"></a>
 
-{% include team_member member_name="Mayson" full_name="Mayson Trujillo" bio='insert Mayson's bio here' image="/lab-website-home/assets/img/team/mayson_trujillo.png" role="Graduate Student" %}
+{% include team_member member_name="Mayson" full_name="Mayson Trujillo" bio='insert Mayson's bio here' image="/lab-website-home/assets/img/team/mayson_trujillo.jpeg" role="Graduate Student" %}
 
 {% include team_member member_name="Alexa" full_name="Alexa Jimenez" bio='insert Alexa's bio here' image="/lab-website-home/assets/img/team/alexa_jimenez.jpeg" role="Graduate Student" %}
 
