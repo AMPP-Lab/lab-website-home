@@ -37,3 +37,9 @@ header:
 
 <h2 data-magellan-destination="Research Assistants">Research Assistants</h2>
 <a name="Research Assistants"></a>
+
+<h2 data-magellan-destination="Alumni">Alumni</h2>
+<a name="Alumni"></a>
+
+<h2 data-magellan-destination="Past Members">Past Members</h2>
+<a name="Past Members"></a>
