@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Contact Us"
+title: "Contact"
 permalink: "/contact/"
 header:
     image_fullwidth: "ampp_header.png"
