@@ -1,10 +1,10 @@
 - name: GitHub
-  url: http://github.com/phlow
+  url: https://github.com/AMPP-Lab
   class: icon-github
   title: Code und mehr...
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: https://twitter.com/SMUPsychology/media?lang=en
   class: icon-twitter
   title: "Immer das Neuste von Phlow gibt es auf Twitter"
 
