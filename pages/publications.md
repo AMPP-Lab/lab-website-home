@@ -28,21 +28,33 @@ header:
 
 {% include publication authors="Tabak, B. A., Gupta, D., Sunahara, C. S., Alvi, T., Wallmark, Z., Lee, J., Fulford, D., Hudson, N. W., & Chmielewski, M. (2022)" title="Environmental sensitivity predicts interpersonal sensitivity above and beyond Big Five personality traits" journal="Journal of Research in Personality, 98, 104210" doi="10.1016/j.jrp.2022.104210"%}
 
+{% include publication authors="Jimenez, A., McMahon, T. P., Watson, D., & Naragon-Gainey, K. (2022)" title="Dysphoria and well-being in daily life: Development and validation of ecological momentary assessment scales" journal="Psychological Assessment." doi="10.1037/pas0001117" pmid="35175076"%}
+
 {% include publication authors="DeYoung, C. G., Chmielewski, M., Clark, L. A., Condon, D. M., Kotov, R., Krueger, R. F., Lynam, D. R., Markon, K. E., Miller, J. D., Mullins-Sweatt, S. N., Samuel, D. B., Sellbom, M., South, S. C., Thomas, K. M., Watson, D., Watts, A. L., Widiger, T. A., Wright, A. G. C., & Workgroup, HiTOP Normal Personality Workgroup (2022)" title="The distinction between symptoms and traits in the Hierarchical Taxonomy of Psychopathology (HiTOP)" journal="Journal of Personality, 90(1), 20–33" doi="10.1111/jopy.12593" pmid="32978977"%}
 
-{% include publication authors="Lui, P. P., Chmielewski, M., Trujillo, M., Morris, J., & Pigott, T. D. (2022)" title=" Linking Big Five Personality Domains and Facets to Alcohol (Mis)Use: A Systematic Review and Meta-Analysis" journal="Alcohol and alcoholism (Oxford, Oxfordshire), 57(1), 58–73" doi="10.1093/alcalc/agab030" pmid="33893471"%}
+{% include publication authors="Lui, P. P., Chmielewski, M., Trujillo, M., Morris, J., & Pigott, T. D. (2022)" title="Linking Big Five Personality Domains and Facets to Alcohol (Mis)Use: A Systematic Review and Meta-Analysis" journal="Alcohol and alcoholism (Oxford, Oxfordshire), 57(1), 58–73" doi="10.1093/alcalc/agab030" pmid="33893471"%}
+
+<hr>
 
 <h2 data-magellan-destination="2021">2021</h2>
 <a name="2021"></a>
 
+<hr>
+
 <h2 data-magellan-destination="2020">2020</h2>
 <a name="2020"></a>
+
+<hr>
 
 <h2 data-magellan-destination="2019">2019</h2>
 <a name="2019"></a>
 
+<hr>
+
 <h2 data-magellan-destination="2018">2018</h2>
 <a name="2018"></a>
+
+<hr>
 
 <h2 data-magellan-destination="2017">2017</h2>
 <a name="2017"></a>
@@ -52,13 +64,10 @@ header:
 <h2 data-magellan-destination="2016">2016</h2>
 <a name="2016"></a>
 
-
 <hr>
 
 <h2 data-magellan-destination="2015">2015</h2>
 <a name="2015"></a>
-
-
 
 <hr>
 
