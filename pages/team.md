@@ -35,11 +35,6 @@ header:
 
 {% include team_member member_name="Megan" full_name="Megan Richters" bio='Megan Richters is a PhD Candidate in the Molecular Genetics and Genomics program at Washington University in St. Louis. She graduated from the University of Louisiana at Monroe in 2014 with a B.S. in Biology. She is interested in assessing the impact of intratumoral heterogeneity on neoantigen prediction accuracy as well as exploring novel sources of neoantigens for personalized cancer vaccines.' image="/lab-website-home/assets/img/team/megan_richters.jpg" role="Graduate Student" %}
 
-
-{% include team_member member_name="Huiming" full_name="Huiming Xia, BSc" bio='Huiming is a graduate student in the Computational Molecular Biophysics program at Washington University in St. Louis. She graduated from Carnegie Mellon University in 2017 with a dual degree in Computational Biology and Chemistry.' image="/lab-website-home/assets/img/team/huiming_xia.jpg" role="Graduate Student" %}
-
-{% include team_member member_name="Chris" full_name="Christopher J. Yoon" bio="Chris is in the Molecular Genetics and Genomics program and the Medical Scientist Training Program at Washington University in St. Louis. He graduated with a B.S. in Chemical-Biological Engineering from MIT and an M.Phil. degree in computational biology at the University of Cambridge. Before joining the Griffith lab, he spent 3 years at Korea Advanced Institute of Science and Technology (KAIST) to fulfill his military duty as a substituted service for South Korea. Chris' current research interest focuses on understanding various types of human twins using next generation sequencing technologies and developing software tools.' image="/lab-website-home/assets/img/team/chris_yoon.jpg" role="Graduate Student" %}
-
 <h2 data-magellan-destination="Research Assistants">Research Assistants</h2>
 <a name="Research Assistants"></a>
 
