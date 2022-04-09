@@ -22,7 +22,7 @@ header:
 <h2 data-magellan-destination="Principal_Investigator">Principal Investigator</h2>
 <a name="Principal_Investigator"></a>
 
-{% include team_member member_name="Mike" full_name="Mike Chmielewski" bio='Kelsy is a graduate student in the Molecular Cell Biology program at Washington University in St. Louis. She completed her undergraduate degree at Mercer University in 2016, where she earned a B.S. in Biochemistry and Molecular Biology. she is interested in developing methods to analyze multiple types of sequencing data in order to better understand regulatory mutations and splicing within cancer, with the hope of identifying novel biomarkers. Currently, she is involved with <a href="http://dgidb.org">DGIdb</a>, Regtools, and analysis of large scale clinical cohorts.' image="/lab-website-home/assets/img/team/obi_griffith.jpg" role="Principal Investigator" %}
+{% include team_member member_name="Mike" full_name="Mike Chmielewski" bio='Dr. Chmielewski’s research, which spans multiple disciplines of psychology, focuses on improving our ability to measure and understand psychological constructs. For example, one line of research examines the structure of psychopathology and ways to improve how psychopathology is classified.  Another line focuses on the development of “normal” personality traits and their associations with other constructs (e.g., psychopathology, health behaviors).  Much of his work focuses on psychometrics and the development and evaluation of psychological tests, measures, and assessments.' image="/lab-website-home/assets/img/team/mike_chmielewski.png" role="Principal Investigator" %}
 
 <h2 data-magellan-destination="Graduate_Students">Graduate Students</h2>
 <a name="Graduate_Students"></a>
