@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: smu1.jpg
 #
 # Use the call for action to show a button on the frontpage
 #
