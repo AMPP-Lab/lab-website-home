@@ -5,6 +5,7 @@
   <div class="small-8 columns">
     <p class="small-gap"> <b> {{ include.full_name }} </b></p>
     <p class="small-gap"> {{ include.bio }}</p>
+    <p class="small-gap"> [CV]({{ include.cv }})</p>
   </div>
 </div>
 
