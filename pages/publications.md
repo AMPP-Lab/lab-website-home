@@ -41,6 +41,10 @@ header:
 <h2 data-magellan-destination="2021">2021</h2>
 <a name="2021"></a>
 
+{% include publication authors="Kucker, S. C., Zimmerman, C., & Chmielewski, M. (2021)" title="Taking parent personality and child temperament into account in child language development" journal="The British Journal of Developmental Psychology, 39(4), 540–565" doi="10.1111/bjdp.12379" pmid="33987860"%}
+
+{% include publication authors="Nordberg, H., Kroll, J. L., Rosenfield, D., Chmielewski, M., & Ritz, T. (2022)" title="Chronic stress experience, sleep, and physical activity: Relations with change in negative affect and acute stress response to a naturalistic stressor" journal="British Journal of Health Psychology, 27(2)" doi="10.1111/bjhp.12554" pmid="34423530"%}
+
 <hr>
 
 <h2 data-magellan-destination="2020">2020</h2>
@@ -72,11 +76,3 @@ header:
 <a name="2015"></a>
 
 <hr>
-
-<h2 data-magellan-destination="All">Complete Bibliography (PubMed)</h2>
-<a name="All"></a>
-
-<h3><a href="https://www.ncbi.nlm.nih.gov/myncbi/obi.griffith.1/bibliography/public/">Obi Griffith</a></h3>
-
-<h3><a href="https://www.ncbi.nlm.nih.gov/myncbi/malachi.griffith.1/bibliography/public/">Malachi Griffith</a></h3>
-
