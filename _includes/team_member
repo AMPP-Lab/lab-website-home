@@ -5,8 +5,7 @@
   <div class="small-8 columns">
     <p class="small-gap"> <b> {{ include.full_name }} </b></p>
     <p class="small-gap"> {{ include.bio }}</p>
-    <h2 data-magellan-destination="{{ include.anchor }}"><a href="{{ include.link }}"> {{ include.title }} </a></h2>
-        <a name="{{ include.anchor }}"></a>
+    <a href="{{ include.link }}"> {{ include.title }} </a> 
   </div>
 </div>
 
