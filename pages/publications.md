@@ -117,6 +117,11 @@ header:
 <h2 data-magellan-destination="2017">2017</h2>
 <a name="2017"></a>
 
+{% include publication authors="Chmielewski, M., Zhu, J., Burchett, D., Bury, A. S., & Bagby, R. M. (2017)" title="The comparative capacity of the Minnesota Multiphasic Personality Inventory-2 (MMPI-2) and MMPI-2 Restructured Form (MMPI-2-RF) validity scales to detect suspected malingering in a disability claimant sample" journal="Psychological Assessment, 29(2), 199–208" doi="10.1037/pas0000328" pmid="27183046"%}
+
+{% include publication authors="Tang, R., Silva, L., & Chmielewski, M. (2017)" title="C-39 Is Non-Verbal Problem Solving Dependent on Language?" journal="Archives of Clinical Neuropsychology, 32(6), 667–765" doi="10.1093/arclin/acx076.206"%}
+
+
 <hr>
 
 <h2 data-magellan-destination="2016">2016</h2>
