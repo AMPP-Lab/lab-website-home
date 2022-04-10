@@ -64,14 +64,26 @@ header:
 
 {% include publication authors="Mullins-Sweatt, S. N., Hopwood, C. J., Chmielewski, M., Meyer, N. A., Min, J., Helle, A. C., & Walgren, M. D. (2020)" title="Treatment of personality pathology through the lens of the hierarchical taxonomy of psychopathology: Developing a research agenda" journal="Personality and Mental Health, 14(1), 123–141" doi="10.1002/pmh.1464" pmid="31364820"%}
 
-{% include publication authors="Chmielewski, M., & Trujillo, M. (2020)" title="The need for a more rigorous approach to diagnostic reliability: Commentary on categorical assessment of personality disorders. In C. W. Lejuez & K. L. Gratz (Eds.), _The Cambridge handbook of personality disorders_ (pp. 369–372)" journal="Cambridge University Press" doi="10.1017/9781108333931.064"%}
+{% include publication authors="Chmielewski, M., & Trujillo, M. (2020)" title="The need for a more rigorous approach to diagnostic reliability: Commentary on categorical assessment of personality disorders. In C. W. Lejuez & K. L. Gratz (Eds.), The Cambridge handbook of personality disorders (pp. 369–372)" journal="Cambridge University Press" doi="10.1017/9781108333931.064"%}
 
-{% include publication authors="Holden, G. W., Gower, T., & Chmielewski, M. (2020)" title="Chapter 9 — Methodological considerations in ACEs research. In G. J. G. Asmundson & T. O. Afifi (Eds.), _Adverse Childhood Experiences_ (pp. 161–182)" journal="Academic Press" doi="10.1016/B978-0-12-816065-7.00009-4"%}
+{% include publication authors="Holden, G. W., Gower, T., & Chmielewski, M. (2020)" title="Chapter 9 — Methodological considerations in ACEs research. In G. J. G. Asmundson & T. O. Afifi (Eds.), Adverse Childhood Experiences (pp. 161–182)" journal="Academic Press" doi="10.1016/B978-0-12-816065-7.00009-4"%}
 
 <hr>
 
 <h2 data-magellan-destination="2019">2019</h2>
 <a name="2019"></a>
+
+{% include publication authors="DeBrabander, K. M., Morrison, K. E., Jones, D. R., Faso, D. J., Chmielewski, M., & Sasson, N. J. (2019)" title="Do First Impressions of Autistic Adults Differ Between Autistic and Nonautistic Observers?" journal="Autism in Adulthood, 1(4), 250–257" doi="10.1089/aut.2019.0018"%}
+
+{% include publication authors="Ruggero, C. J., Kotov, R., Hopwood, C. J., First, M., Clark, L. A., Skodol, A. E., Mullins-Sweatt, S. N., Patrick, C. J., Bach, B., Cicero, D. C., Docherty, A., Simms, L. J., Bagby, R. M., Krueger, R. F., Callahan, J. L., Chmielewski, M., Conway, C. C., De Clercq, B., Dornbach-Bender, A., … Zimmermann, J. (2019)" title="Integrating the Hierarchical Taxonomy of Psychopathology (HiTOP) into clinical practice" journal="Journal of Consulting and Clinical Psychology, 87(12), 1069–1084" doi="10.1037/ccp0000452" pmid="31724426"%}
+
+{% include publication authors="Widiger, T. A., Bach, B., Chmielewski, M., Clark, L. A., DeYoung, C., Hopwood, C. J., Kotov, R., Krueger, R. F., Miller, J. D., Morey, L. C., Mullins-Sweatt, S. N., Patrick, C. J., Pincus, A. L., Samuel, D. B., Sellbom, M., South, S. C., Tackett, J. L., Watson, D., Waugh, M. H., … Thomas, K. M. (2019)" title="Criterion A of the AMPD in HiTOP" journal="Journal of Personality Assessment, 101(4), 345–355" doi="10.1080/00223891.2018.1465431" pmid="29746190"%}
+
+{% include publication authors="Stasik-O’Brien, S. M., Brock, R. L., Chmielewski, M., Naragon-Gainey, K., Koffel, E., McDade-Montez, E., O’Hara, M. W., & Watson, D. (2019)" title="Clinical Utility of the Inventory of Depression and Anxiety Symptoms (IDAS)" journal="Assessment, 26(5), 944–960" doi="10.1177/1073191118790036" pmid="30043620"%}
+
+{% include publication authors="Conway, C. C., Forbes, M. K., Forbush, K. T., Fried, E. I., Hallquist, M. N., Kotov, R., Mullins-Sweatt, S. N., Shackman, A. J., Skodol, A. E., South, S. C., Sunderland, M., Waszczuk, M. A., Zald, D. H., Afzali, M. H., Bornovalova, M. A., Carragher, N., Docherty, A. R., Jonas, K. G., Krueger, R. F., … Eaton, N. R. (2019)" title="A Hierarchical Taxonomy of Psychopathology Can Transform Mental Health Research" journal="Perspectives on Psychological Science: A Journal of the Association for Psychological Science, 14(3), 419–436" doi="10.1177/1745691618810696" pmid="30844330"%}
+
+{% include publication authors="Widiger, T. A., Sellbom, M., Chmielewski, M., Clark, L. A., DeYoung, C. G., Kotov, R., Krueger, R. F., Lynam, D. R., Miller, J. D., Mullins-Sweatt, S., Samuel, D. B., South, S. C., Tackett, J. L., Thomas, K. M., Watson, D., & Wright, A. G. C. (2019)" title="Personality in a Hierarchical Model of Psychopathology" journal="Clinical Psychological Science, 7(1), 77–92" doi="10.1177/2167702618797105"%}
 
 <hr>
 
