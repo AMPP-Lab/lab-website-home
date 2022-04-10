@@ -45,6 +45,8 @@ header:
 
 {% include publication authors="Nordberg, H., Kroll, J. L., Rosenfield, D., Chmielewski, M., & Ritz, T. (2022)" title="Chronic stress experience, sleep, and physical activity: Relations with change in negative affect and acute stress response to a naturalistic stressor" journal="British Journal of Health Psychology, 27(2)" doi="10.1111/bjhp.12554" pmid="34423530"%}
 
+{% include publication authors="Hopwood, C. J., Bagby, R. M., Gralnick, T., Ro, E., Ruggero, C., Mullins-Sweatt, S., Kotov, R., Bach, B., Cicero, D. C., Krueger, R. F., Patrick, C. J., Chmielewski, M., DeYoung, C. G., Docherty, A. R., Eaton, N. R., Forbush, K. T., Ivanova, M. Y., Latzman, R. D., Pincus, A. L., … Zimmermann, J. (2020)" title="Integrating psychotherapy with the hierarchical taxonomy of psychopathology (HiTOP)" journal="Journal of Psychotherapy Integration, 30(4), 477–497" doi="10.1037/int0000156" pmid="31724426"%}
+
 <hr>
 
 <h2 data-magellan-destination="2020">2020</h2>
