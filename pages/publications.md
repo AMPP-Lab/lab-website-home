@@ -68,6 +68,8 @@ header:
 
 {% include publication authors="Holden, G. W., Gower, T., & Chmielewski, M. (2020)" title="Chapter 9 — Methodological considerations in ACEs research. In G. J. G. Asmundson & T. O. Afifi (Eds.), Adverse Childhood Experiences (pp. 161–182)" journal="Academic Press" doi="10.1016/B978-0-12-816065-7.00009-4"%}
 
+{% include publication authors="Sargent, K. S., Jouriles, E. N., Chmielewski, M., & McDonald, R. (2020)" title="Using Virtual Reality to Create an Observational Assessment of Adolescent Resistance to Antisocial Peer Pressure" journal="Journal of Clinical Child and Adolescent Psychology: The Official Journal for the Society of Clinical Child and Adolescent Psychology, American Psychological Association, Division 53, 49(2), 178–189" doi="10.1080/15374416.2018.1504296" pmid="30142280"%}
+
 <hr>
 
 <h2 data-magellan-destination="2019">2019</h2>
@@ -89,6 +91,26 @@ header:
 
 <h2 data-magellan-destination="2018">2018</h2>
 <a name="2018"></a>
+
+{% include publication authors="Fonseca-Pedrero, E., Ortuño, J., Debbané, M., Chan, R. C. K., Cicero, D., Zhang, L. C., Brenner, C., Barkus, E., Linscott, R. J., Kwapil, T., Barrantes-Vidal, N., Cohen, A., Raine, A., Compton, M. T., Tone, E. B., Suhr, J., Inchausti, F., Bobes, J., Fumero, A., … Fried, E. I. (2018)" title="The Network Structure of Schizotypal Personality Traits" journal="Schizophrenia Bulletin, 44(suppl_2), S468–S479" doi="10.1093/schbul/sby044" pmid="29684178"%}
+
+{% include publication authors="Krueger, R. F., Kotov, R., Watson, D., Forbes, M. K., Eaton, N. R., Ruggero, C. J., Simms, L. J., Widiger, T. A., Achenbach, T. M., Bach, B., Bagby, R. M., Bornovalova, M. A., Carpenter, W. T., Chmielewski, M., Cicero, D. C., Clark, L. A., Conway, C., DeClercq, B., DeYoung, C. G., … Zimmermann, J. (2018)" title="Progress in achieving quantitative classification of psychopathology" journal="World Psychiatry: Official Journal of the World Psychiatric Association (WPA), 17(3), 282–293" doi="10.1002/wps.20566" pmid="30229571"%}
+
+{% include publication authors="Krueger, R. F., Kotov, R., Watson, D., Forbes, M. K., Eaton, N. R., Ruggero, C. J., Simms, L. J., Widiger, T. A., Achenbach, T. M., Bach, B., Bagby, R. M., Bornovalova, M. A., Carpenter, W. T., Chmielewski, M., Cicero, D. C., Clark, L. A., Conway, C., DeClercq, B., DeYoung, C. G., … Zimmermann, J. (2018)" title="Progress in achieving quantitative classification of psychopathology" journal="World Psychiatry: Official Journal of the World Psychiatric Association (WPA), 17(3), 282–293" doi="10.1002/wps.20566" pmid="30229571"%}
+
+{% include publication authors="Gerritsen, C. J., Chmielewski, M., Zakzanis, K., & Bagby, R. M. (2018)" title="Examining the dimensions of schizotypy from the top down: A hierarchical comparison of item-level factor solutions" journal="Personality Disorders: Theory, Research, and Treatment, 9(5), 467–477" doi="10.1037/per0000283" pmid="29927295"%}
+
+{% include publication authors="Fonseca-Pedrero, E., Chan, R. C. K., Debbané, M., Cicero, D., Zhang, L. C., Brenner, C., Barkus, E., Linscott, R. J., Kwapil, T., Barrantes-Vidal, N., Cohen, A., Raine, A., Compton, M. T., Tone, E. B., Suhr, J., Muñiz, J., de Albéniz, A. P., Fumero, A., Giakoumaki, S., … Ortuño-Sierra, J. (2018)" title="Comparisons of schizotypal traits across 12 countries: Results from the International Consortium for Schizotypy Research" journal="Schizophrenia Research, 199, 128–134" doi="10.1016/j.schres.2018.03.021" pmid="29567403"%}
+
+{% include publication authors="Fonseca-Pedrero, E., Ortuño-Sierra, J., Lucas-Molina, B., Debbané, M., Chan, R. C. K., Cicero, D. C., Zhang, L. C., Brenner, C., Barkus, E., Linscott, R. J., Kwapil, T., Barrantes-Vidal, N., Cohen, A., Raine, A., Compton, M. T., Tone, E. B., Suhr, J., Bobes, J., Fumero, A., … Voracek, M. (2018)" title="Brief assessment of schizotypal traits: A multinational study" journal="Schizophrenia Research, 197, 182–191" doi="10.1016/j.schres.2017.10.043" pmid="29113776"%}
+
+{% include publication authors="Sasson, N. J., Morrison, K. E., Pinkham, A. E., Faso, D. J., & Chmielewski, M. (2018)" title="Brief Report: Adults with Autism are Less Accurate at Predicting How Their Personality Traits are Evaluated by Unfamiliar Observers" journal="Journal of Autism and Developmental Disorders, 48(6), 2243–2248" doi="10.1007/s10803-018-3487-z" pmid="29417437"%}
+
+{% include publication authors="Rochefort, C., Baldwin, A. S., & Chmielewski, M. (2018)" title="Experiential Avoidance: An Examination of the Construct Validity of the AAQ-II and MEAQ" journal="Behavior Therapy, 49(3), 435–449" doi="10.1016/j.beth.2017.08.008" pmid="29704971"%}
+
+{% include publication authors="Hopwood, C. J., Kotov, R., Krueger, R. F., Watson, D., Widiger, T. A., Althoff, R. R., Ansell, E. B., Bach, B., Michael Bagby, R., Blais, M. A., Bornovalova, M. A., Chmielewski, M., Cicero, D. C., Conway, C., De Clercq, B., De Fruyt, F., Docherty, A. R., Eaton, N. R., Edens, J. F., … Zimmermann, J. (2018)" title="The time has come for dimensional personality disorder diagnosis" journal="Personality and Mental Health, 12(1), 82–86" doi="10.1002/pmh.1408" pmid="29226598"%}
+
+{% include publication authors="Fonseca-Pedrero, E., Debbané, M., Ortuño-Sierra, J., Chan, R. C. K., Cicero, D. C., Zhang, L. C., Brenner, C., Barkus, E., Linscott, R. J., Kwapil, T., Barrantes-Vidal, N., Cohen, A., Raine, A., Compton, M. T., Tone, E. B., Suhr, J., Muñiz, J., Fumero, A., Giakoumaki, S., … Jablensky, A. (2018)" title="The structure of schizotypal personality traits: A cross-national study" journal="Psychological Medicine, 48(3), 451–462" doi="10.1017/S0033291717001829" pmid="28712364"%}
 
 <hr>
 
