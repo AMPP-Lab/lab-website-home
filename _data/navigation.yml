@@ -24,10 +24,10 @@
     - title: "Positions"
       url: "/join/positions/"
       
-- title: Participate
-  url: "/participate/"
+- title: For Participants
+  url: "/participants/"
   side: left
 
-- title: Contact
+- title: Contact Us
   url: "/contact/"
   side: right
