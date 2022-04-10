@@ -5,6 +5,7 @@
   <div class="small-8 columns">
     <p class="small-gap"> <b> {{ include.full_name }} </b></p>
     <p class="small-gap"> {{ include.bio }}</p>
+    <br>
     <a href="{{ include.link }}"> {{ include.title }} </a> 
   </div>
 </div>
