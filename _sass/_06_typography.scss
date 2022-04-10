@@ -34,11 +34,11 @@ a:visited {
 }
 
 a:hover {
-    color: lighten( $ci-9, 80% );
+    color: darken( $ci-9, 80% );
 }
 
 a:focus {
-    color: lighten( $ci-9, 80% );
+    color: darken( $ci-9, 80% );
 }
 
 a:active {
