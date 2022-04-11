@@ -10,13 +10,15 @@ This is the github repo for the AMPP Lab [website](https://ampp-lab.github.io/la
 <br>
   <strong> Team Headshots </strong>
 <br>
-  :file_folder: assets &rarr; :file_folder: img &rarr; :file_folder: team
+  :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/assets">assets</a>  &rarr; :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/assets/img">img</a>  &rarr; :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/assets/img/team">team</a>
+<br>
   
 <br>
   <strong> Lab News </strong>
 <br>
   :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/_posts">_posts</a> 
-
+<br>
+  
 <br>
   <strong> Site Header Images & Logos </strong>
 <br>
