@@ -6,8 +6,8 @@ This is the github repo for the AMPP Lab [website](https://ampp-lab.github.io/la
 
 <details>
 <summary>Aesthetics</summary>
-  
-:file_folder: **assets**
+<br>
+:file_folder: **assets** &rarr; :file_folder: **img**
   
 </details>
 
