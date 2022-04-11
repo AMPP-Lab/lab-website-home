@@ -14,11 +14,6 @@ This is the github repo for the AMPP Lab [website](https://ampp-lab.github.io/la
 
 </details>
 
-<details>
-<summary>Content</summary>
-
-</details>
-
 ## License
 
 The code for this site is licensed under an MIT license, images may have specific attribution requirements and are licensed individually under assets/img/image_attribution
