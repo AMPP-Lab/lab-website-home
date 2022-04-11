@@ -20,7 +20,7 @@ This is the github repo for the AMPP Lab [website](https://ampp-lab.github.io/la
 <br>
   <strong> Site Header Images & Logos </strong>
 <br>
-  :file_folder: images
+  :file_folder: [images](https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/images)
   
 </details>
 
