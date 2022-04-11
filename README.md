@@ -17,8 +17,15 @@ This is the github repo for the AMPP Lab [website](https://ampp-lab.github.io/la
   <strong> Site Header Images & Logos </strong>
 <br>
   :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/images">images</a>
+<br>
+  
+<br>
+  <strong> Lab Photo </strong>
+<br>
+  :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/assets">assets</a>  &rarr; :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/assets/img">img</a>
   
 </details>
+
 
 <details>
 <summary>Content</summary>
