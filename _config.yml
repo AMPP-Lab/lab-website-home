@@ -22,12 +22,15 @@ author: Team
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://ampp-lab.github.io'
+url: 'https://ampp-lab.smu.edu'
 baseurl: '/lab-website-home'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
 improve_content: https://github.com/ampp-lab/lab-website-home/edit/gh-pages
+
+url: 'https://griffithlab.org'
+#baseurl: '/vicc', this breaks github pages for some reason, investigate, ZL
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -35,7 +38,7 @@ improve_content: https://github.com/ampp-lab/lab-website-home/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://ampp-lab.github.io/lab-website-home/images/'
+urlimg: 'https://ampp-lab.smu.edu/lab-website-home/images/'
 
 
 # Logo size is 600x80 pixels
