@@ -14,12 +14,6 @@ This is the github repo for the AMPP Lab [website](https://ampp-lab.github.io/la
 <br>
   
 <br>
-  <strong> Lab News </strong>
-<br>
-  :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/_posts">_posts</a> 
-<br>
-  
-<br>
   <strong> Site Header Images & Logos </strong>
 <br>
   :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/images">images</a>
@@ -28,6 +22,24 @@ This is the github repo for the AMPP Lab [website](https://ampp-lab.github.io/la
 
 <details>
 <summary>Content</summary>
+
+<br>
+  <strong> Lab News </strong>
+<br>
+  :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/_posts">_posts</a> 
+<br>
+  
+<br>
+  <strong> Publications </strong>
+<br>
+  :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/pages">pages</a> &rarr; <a href="https://github.com/AMPP-Lab/lab-website-home/blob/gh-pages/pages/publications.md">publications.md</a>
+<br>
+
+<br>
+  <strong> Team Bios & CV Links </strong>
+<br>
+  :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/pages">pages</a> &rarr; <a href="https://github.com/AMPP-Lab/lab-website-home/blob/gh-pages/pages/team.md">team.md</a>
+<br>
 
 </details>
 
