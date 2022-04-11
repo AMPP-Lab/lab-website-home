@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: smu1.jpeg
+  image_fullwidth: ampp_header2.png
 #
 # Use the call for action to show a button on the frontpage
 #
