@@ -57,25 +57,25 @@ This is the github repo for the AMPP Lab [website](https://ampp-lab.github.io/la
 <br>
 
 <br>
-  <strong> <i>Home</i> Page <i>Research Overview</i> Content </strong>
+  <strong> Home Page Research Overview Content </strong>
 <br>
   :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/pages">pages</a> &rarr; :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/pages-root-folder">pages-root-folder</a> &rarr; :page_facing_up: <a href="https://github.com/AMPP-Lab/lab-website-home/blob/gh-pages/pages/pages-root-folder/index.md">index.md</a>
 <br>
   
 <br>
-  <strong> <i>Join</i> Page </strong>
+  <strong> Join Page </strong>
 <br>
   :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/pages">pages</a> &rarr; :page_facing_up: <a href="https://github.com/AMPP-Lab/lab-website-home/blob/gh-pages/pages/join.md">join.md</a>
 <br>
   
 <br>
-  <strong> <i>Participate</i> Page </strong>
+  <strong> Participate Page </strong>
 <br>
   :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/pages">pages</a> &rarr; :page_facing_up: <a href="https://github.com/AMPP-Lab/lab-website-home/blob/gh-pages/pages/participate.md">participate.md</a>
 <br>
 
 <br>
-  <strong> <i>Contact</i> Page </strong>
+  <strong> Contact Page </strong>
 <br>
   :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/pages">pages</a> &rarr; :page_facing_up: <a href="https://github.com/AMPP-Lab/lab-website-home/blob/gh-pages/pages/contact.md">contact.md</a>
 <br>
