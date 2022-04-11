@@ -7,7 +7,8 @@ This is the github repo for the AMPP Lab [website](https://ampp-lab.github.io/la
 <details>
 <summary>Aesthetics</summary>
 <br>
-  :file_folder: <strong>assets</strong> &rarr; :file_folder: <strong>img</strong>
+### Team Headshots 
+  :file_folder: <strong>assets</strong> &rarr; :file_folder: <strong>img</strong> &rarr; :file_folder: <strong>team</strong>
   
 </details>
 
