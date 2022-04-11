@@ -34,15 +34,15 @@ a:visited {
 }
 
 a:hover {
-    color: lighten( $ci-1, 40% );
+    color: lighten( $ci-8, 40% );
 }
 
 a:focus {
-    color: lighten( $ci-1, 20% );
+    color: lighten( $ci-8, 20% );
 }
 
 a:active {
-    color: darken( $ci-1, 20% );
+    color: darken( $ci-8, 20% );
 }
 
 
