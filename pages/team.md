@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 permalink: "/team/"
 header:
-    image_fullwidth: "ampp_header.png"
+    image_fullwidth: "ampp_header1.png"
 ---
 
 <div data-magellan-expedition="fixed">
