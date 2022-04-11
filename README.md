@@ -44,6 +44,13 @@ This is the github repo for the AMPP Lab [website](https://ampp-lab.github.io/la
 <br>
 
 <br>
+  <strong> Research </strong>
+<br>
+  :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/pages">pages</a> &rarr; 
+  :page_facing_up: <a href="https://github.com/AMPP-Lab/lab-website-home/blob/gh-pages/pages/research.md">research.md</a>
+<br>
+
+<br>
   <strong> Team Bios & CV Links </strong>
 <br>
   :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/pages">pages</a> &rarr; :page_facing_up: <a href="https://github.com/AMPP-Lab/lab-website-home/blob/gh-pages/pages/team.md">team.md</a>
