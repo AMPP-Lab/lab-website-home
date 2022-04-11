@@ -32,15 +32,40 @@ This is the github repo for the AMPP Lab [website](https://ampp-lab.github.io/la
 <br>
   <strong> Publications </strong>
 <br>
-  :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/pages">pages</a> &rarr; <a href="https://github.com/AMPP-Lab/lab-website-home/blob/gh-pages/pages/publications.md">publications.md</a>
+  :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/pages">pages</a> &rarr; 
+  :page_facing_up: <a href="https://github.com/AMPP-Lab/lab-website-home/blob/gh-pages/pages/publications.md">publications.md</a>
 <br>
 
 <br>
   <strong> Team Bios & CV Links </strong>
 <br>
-  :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/pages">pages</a> &rarr; <a href="https://github.com/AMPP-Lab/lab-website-home/blob/gh-pages/pages/team.md">team.md</a>
+  :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/pages">pages</a> &rarr; :page_facing_up: <a href="https://github.com/AMPP-Lab/lab-website-home/blob/gh-pages/pages/team.md">team.md</a>
 <br>
 
+<br>
+  <strong> 'Home' Page 'Research Overview' Content </strong>
+<br>
+  :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/pages">pages</a> &rarr; :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/pages-root-folder">pages-root-folder</a> &rarr; :page_facing_up: <a href="https://github.com/AMPP-Lab/lab-website-home/blob/gh-pages/pages/index.md">index.md</a>
+<br>
+  
+<br>
+  <strong> 'Join' Page </strong>
+<br>
+  :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/pages">pages</a> &rarr; :page_facing_up: <a href="https://github.com/AMPP-Lab/lab-website-home/blob/gh-pages/pages/join.md">join.md</a>
+<br>
+  
+<br>
+  <strong> 'Participate' Page </strong>
+<br>
+  :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/pages">pages</a> &rarr; :page_facing_up: <a href="https://github.com/AMPP-Lab/lab-website-home/blob/gh-pages/pages/participate.md">participate.md</a>
+<br>
+
+<br>
+  <strong> 'Contact' Page </strong>
+<br>
+  :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/pages">pages</a> &rarr; :page_facing_up: <a href="https://github.com/AMPP-Lab/lab-website-home/blob/gh-pages/pages/contact.md">contact.md</a>
+<br>
+  
 </details>
 
 ## License
