@@ -6,10 +6,21 @@ This is the github repo for the AMPP Lab [website](https://ampp-lab.github.io/la
 
 <details>
 <summary>Aesthetics</summary>
+  
 <br>
   <strong> Team Headshots </strong>
 <br>
   :file_folder: <strong>assets</strong> &rarr; :file_folder: <strong>img</strong> &rarr; :file_folder: <strong>team</strong>
+  
+<br>
+  <strong> Lab News </strong>
+<br>
+  :file_folder: <strong>_posts</strong>  
+
+<br>
+  <strong> Site Header Images & Logos </strong>
+<br>
+  :file_folder: <strong>images</strong>  
   
 </details>
 
