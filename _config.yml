@@ -22,7 +22,7 @@ author: Team
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://ampp-lab.smu.edu'
+url: 'https://ampp-lab.github.io'
 baseurl: '/lab-website-home'
 
 # This is for the editing function in _/includes/improve_content
@@ -35,7 +35,7 @@ improve_content: https://github.com/ampp-lab/lab-website-home/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://ampp-lab.smu.edu/lab-website-home/images/'
+urlimg: 'https://ampp-lab.github.io/lab-website-home/images/'
 
 
 # Logo size is 600x80 pixels
