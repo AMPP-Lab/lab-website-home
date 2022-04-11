@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 permalink: "/publications/"
 header:
-    image_fullwidth: "ampp_header1.png"
+    image_fullwidth: "ampp_header2.png"
 ---
 
 <div data-magellan-expedition="fixed">
