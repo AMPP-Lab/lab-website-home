@@ -15,12 +15,12 @@ This is the github repo for the AMPP Lab [website](https://ampp-lab.github.io/la
 <br>
   <strong> Lab News </strong>
 <br>
-  :file_folder: _posts 
+  :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/_posts">_posts</a> 
 
 <br>
   <strong> Site Header Images & Logos </strong>
 <br>
-  :file_folder: [images](https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/images)
+  :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/images">images</a>
   
 </details>
 
