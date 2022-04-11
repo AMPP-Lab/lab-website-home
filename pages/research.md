@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 permalink: "/research/"
 header:
-    image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
+    image_fullwidth: "ampp_header1.png"
 ---
 
 <div data-magellan-expedition="fixed">
