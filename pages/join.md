@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 permalink: "/join/"
 header:
-    image_fullwidth: "ampp_header.png"
+    image_fullwidth: "ampp_header1.png"
 ---
  
 
