@@ -29,6 +29,10 @@ header:
 <h2 data-magellan-destination="2022">2022</h2>
 <a name="2022"></a>
 
+{% include publication authors="Kucker, S. C., & Chmielewski, M. (2022)" title="Yes, but … We need reliability to advance infant work, but there’s more to consider too: Important nuances of reliability and the need to include validity" journal="Infant and Child Development, e2325" doi="10.1002/icd.2325"%}
+
+{% include publication authors="Hasratian, A. M., Meuret, A. E., Chmielewski, M., & Ritz, T. (2022)" title="An Examination of the RDoC Negative Valence Systems Domain Constructs and the Self-Reports Unit of Analysis" journal="Behavior Therapy" doi="10.1016/j.beth.2022.04.009"%}
+
 {% include publication authors="Tabak, B. A., Gupta, D., Sunahara, C. S., Alvi, T., Wallmark, Z., Lee, J., Fulford, D., Hudson, N. W., & Chmielewski, M. (2022)" title="Environmental sensitivity predicts interpersonal sensitivity above and beyond Big Five personality traits" journal="Journal of Research in Personality, 98, 104210" doi="10.1016/j.jrp.2022.104210"%}
 
 {% include publication authors="Jimenez, A., McMahon, T. P., Watson, D., & Naragon-Gainey, K. (2022)" title="Dysphoria and well-being in daily life: Development and validation of ecological momentary assessment scales" journal="Psychological Assessment" doi="10.1037/pas0001117" pmid="35175076"%}
