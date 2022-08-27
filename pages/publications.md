@@ -29,6 +29,8 @@ header:
 <h2 data-magellan-destination="2022">2022</h2>
 <a name="2022"></a>
 
+{% include publication authors="Trujillo, M., Brown, A., Watson, D., Croft-Caderao, K., & Chmielewski, M. (2022)" title="The Dissociative Experiences Scale: An empirical evaluation of long-standing concerns" journal="Psychology of Consciousness: Theory, Research, and Practice"%}
+
 {% include publication authors="Kucker, S. C., & Chmielewski, M. (2022)" title="Yes, but … We need reliability to advance infant work, but there’s more to consider too: Important nuances of reliability and the need to include validity" journal="Infant and Child Development, e2325" doi="10.1002/icd.2325"%}
 
 {% include publication authors="Hasratian, A. M., Meuret, A. E., Chmielewski, M., & Ritz, T. (2022)" title="An Examination of the RDoC Negative Valence Systems Domain Constructs and the Self-Reports Unit of Analysis" journal="Behavior Therapy" doi="10.1016/j.beth.2022.04.009"%}
