@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Research"
-meta_title: ""
+meta_title: "Research"
 subheadline: ""
 teaser: ""
 permalink: "/research/"
