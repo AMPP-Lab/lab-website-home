@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Team"
-meta_title: ""
+meta_title: "Team"
 subheadline: ""
 teaser: ""
 permalink: "/team/"
