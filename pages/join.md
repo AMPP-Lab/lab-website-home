@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Join Our Team"
 meta_title: "Join Our Team"
-subheadline: "Join"
+subheadline: ""
 teaser: ""
 permalink: "/join/"
 header:
