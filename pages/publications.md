@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Selected Publications"
-meta_title: ""
+meta_title: "Publications"
 subheadline: ""
 teaser: ""
 permalink: "/publications/"
