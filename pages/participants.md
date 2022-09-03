@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "For Participants"
-meta_title: ""
+meta_title: "For Participants"
 subheadline: ""
 teaser: ""
 permalink: "/participants/"
