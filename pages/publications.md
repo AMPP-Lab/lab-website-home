@@ -2,8 +2,8 @@
 layout: page-fullwidth
 title: "Selected Publications"
 meta_title: "Publications"
-subheadline: "Publications"
-teaser: "Publications"
+subheadline: ""
+teaser: ""
 permalink: "/publications/"
 header:
     image_fullwidth: "ampp_header2.png"
