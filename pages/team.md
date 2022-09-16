@@ -21,7 +21,7 @@ header:
 <h2 data-magellan-destination="Lab Director">Lab Director</h2>
 <a name="Lab Director"></a>
 
-{% include team_member member_name="Mike" full_name="Mike Chmielewski" bio='Across all areas of science, it is essential that models of the phenomenon of interest are as accurate as possible. Moreover, measurement is critical to all areas of research. The overarching goal of Dr. Mike Chmielewski (he/him)'s research is to enhance the accuracy of our models of psychopathology/clinically relevant constructs and improve our ability to measure/assess these constructs. Dr. Chmielewski accomplishes this through three inter-related programs of research ' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg" title="CV" link="" %}
+{% include team_member member_name="Mike" full_name="Mike Chmielewski" bio='Across all areas of science, it is essential that models of the phenomenon of interest are as accurate as possible. Moreover, measurement is critical to all areas of research. The overarching goal of  ' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg" title="CV" link="" %}
 
 <h2 data-magellan-destination="Graduate_Students">Graduate Students</h2>
 <a name="Graduate_Students"></a>
