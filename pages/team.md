@@ -11,17 +11,17 @@ header:
 
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
-    <li data-magellan-arrival="Principal Investigator"><a href="#Principal Investigator">Principal Investigator</a></li>
+    <li data-magellan-arrival="Lab Director"><a href="#Lab Director">Lab Director</a></li>
     <li data-magellan-arrival="Graduate_Students"><a href="#Graduate_Students">Graduate Students</a></li>
     <li data-magellan-arrival="Research Assistants"><a href="#Research Assistants">Research Assistants</a></li>
     <li data-magellan-arrival="Alumni"><a href="#Alumni">Alumni</a></li>
   </ul>
 </div>
 
-<h2 data-magellan-destination="Principal Investigator">Principal Investigator</h2>
-<a name="Principal Investigator"></a>
+<h2 data-magellan-destination="Lab Director">Lab Director</h2>
+<a name="Lab Director"></a>
 
-{% include team_member member_name="Mike" full_name="Mike Chmielewski" bio='Across all areas of science, it is essential that models of the phenomenon of interest are as accurate as possible. Moreover, measurement is critical to all areas of research. The overarching goal of Dr. Mike Chmielewski (he/him)'s research is to enhance the accuracy of our models of psychopathology/clinically relevant constructs and improve our ability to measure/assess these constructs. Dr. Chmielewski accomplishes this through three inter-related programs of research: (1) by focusing on psychometrics, construct validity, measurement, and scale development, (2) by enhancing the conceptualization and classification of psychopathology through empirically based structural models, and (3) by examining links of “normal” personality traits with psychopathology and other psychological constructs.  Dr. Chmielewski also has multiple ongoing collaborations allowing him to apply these lines of research to health and developmental psychology.  Recently, Dr. Chmielewski has become interested in identifying other barriers to replicable and valid research.' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg" title="CV" link="" %}
+{% include team_member member_name="Mike" full_name="Mike Chmielewski" bio='Across all areas of science, it is essential that models of the phenomenon of interest are as accurate as possible. Moreover, measurement is critical to all areas of research. The overarching goal of Dr. Mike Chmielewski (he/him)'s research is to enhance the accuracy of our models of psychopathology/clinically relevant constructs and improve our ability to measure/assess these constructs. Dr. Chmielewski accomplishes this through three inter-related programs of research: 1) by focusing on psychometrics, construct validity, measurement, and scale development, 2) by enhancing the conceptualization and classification of psychopathology through empirically based structural models, and 3) by examining links of “normal” personality traits with psychopathology and other psychological constructs.  Dr. Chmielewski also has multiple ongoing collaborations allowing him to apply these lines of research to health and developmental psychology.  Recently, Dr. Chmielewski has become interested in identifying other barriers to replicable and valid research.' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg" title="CV" link="" %}
 
 <h2 data-magellan-destination="Graduate_Students">Graduate Students</h2>
 <a name="Graduate_Students"></a>
