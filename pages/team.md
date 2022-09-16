@@ -14,7 +14,6 @@ header:
     <li data-magellan-arrival="Lab Director"><a href="#Lab Director">Lab Director</a></li>
     <li data-magellan-arrival="Graduate_Students"><a href="#Graduate_Students">Graduate Students</a></li>
     <li data-magellan-arrival="Research Assistants"><a href="#Research Assistants">Research Assistants</a></li>
-    <li data-magellan-arrival="Alumni"><a href="#Alumni">Alumni</a></li>
   </ul>
 </div>
 
