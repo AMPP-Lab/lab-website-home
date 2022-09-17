@@ -150,36 +150,40 @@ header:
 
 {% include publication authors="<b><font color='#1b417d'>Chmielewski, M.</font></b>, Clark, L. A., Bagby, R. M., & Watson, D." year="2015" title="Method matters: Understanding diagnostic reliability in DSM-IV and DSM-5." journal="Journal of Abnormal Psychology," volume="124" issue="(3)," pages="764." %}
 
-{% include publication authors="Keeley, J. W., <b><font color='#1b417d'>Chmielewski, M. S.</font></b>, & Bagby, R. M." year="2015" title="Interaction effects in comorbid psychopathology" journal="Comprehensive Psychiatry," volume="60," pages="35-39." %}
+{% include publication authors="Keeley, J. W., <b><font color='#1b417d'>Chmielewski, M. S.</font></b>, & Bagby, R. M." year="2015" title="Interaction effects in comorbid psychopathology." journal="Comprehensive Psychiatry," volume="60," pages="35-39." %}
  
 <hr>
 
 <h2 data-magellan-destination="2014">2014</h2>
 <a name="2014"></a>
 
-{% include publication authors="<b><font color='#1b417d'>Chmielewski, M.</font></b>, Bagby, R. M., Markon, K., Ring, A. J., & Ryder, A. G. (2014)" title="Openness to experience, intellect, schizotypal personality disorder, and psychoticism: Resolving the controversy" journal="Journal of Personality Disorders, 28(4), 483–499" doi="10.1521/pedi_2014_28_128" pmid="24511900"%}
+{% include publication authors="<b><font color='#1b417d'>Chmielewski, M.</font></b>, Bagby, R. M., Markon, K., Ring, A. J., & Ryder, A. G." year="2014" title="Openness to experience, intellect, schizotypal personality disorder, and psychoticism: Resolving the controversy." journal="Journal of Personality Disorders," volume="28" issue="(4)," pages="483-499." %}
 
-{% include publication authors="Bagby, R. M., Sellbom, M., Ayearst, L. E., <b><font color='#1b417d'>Chmielewski, M. S.</font></b>, Anderson, J. L., & Quilty, L. C. (2014)" title="Exploring the hierarchical structure of the MMPI-2-RF Personality Psychopathology Five in psychiatric patient and university student samples" journal="Journal of Personality Assessment, 96(2), 166–172" doi="10.1080/00223891.2013.825623" pmid="24004403"%}
+{% include publication authors="Bagby, R. M., Sellbom, M., Ayearst, L. E., <b><font color='#1b417d'>Chmielewski, M. S.</font></b>, Anderson, J. L., & Quilty, L. C." year="2014" title="Exploring the hierarchical structure of the MMPI-2-RF Personality Psychopathology Five in psychiatric patient and university student samples." journal="Journal of Personality Assessment," volume="96" issue="(2)," pages="166-172." %}
 
-{% include publication authors="Gámez, W., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Kotov, R., Ruggero, C., Suzuki, N., & Watson, D. (2014)" title="The brief experiential avoidance questionnaire: Development and initial validation" journal="Psychological Assessment, 26(1), 35–45" doi="10.1037/a0034473" pmid="24059474"%}
+{% include publication authors="Gámez, W., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Kotov, R., Ruggero, C., Suzuki, N., & Watson, D." year="2014" title="The brief experiential avoidance questionnaire: Development and initial validation" journal="Psychological Assessment," volume="26" issue="(1)," pages="35-45."%}
  
 <hr>
 
 <h2 data-magellan-destination="2013">2013</h2>
 <a name="2013"></a>
 
-{% include publication authors="Watson, D., Clark, L. A., <b><font color='#1b417d'>Chmielewski, M.</font></b>, & Kotov, R. (2013)" title="The value of suppressor effects in explicating the construct validity of symptom measures" journal="Psychological Assessment, 25(3), 929–941" doi="10.1037/a0032781" pmid="23795886"%}
+{% include publication authors="Watson, D., Clark, L. A., <b><font color='#1b417d'>Chmielewski, M.</font></b>, & Kotov, R." year="2013" title="The value of suppressor effects in explicating the construct validity of symptom measures." journal="Psychological Assessment," volume="25" issue="(3)," pages="929-941."%}
 
-{% include publication authors="Quilty, L. C., Ayearst, L., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Pollock, B. G., & Bagby, R. M. (2013)" title="The psychometric properties of the personality inventory for DSM-5 in an APA DSM-5 field trial sample" journal="Assessment, 20(3), 362–369" doi="10.1177/1073191113486183" pmid="23588687"%}
+{% include publication authors="Quilty, L. C., Ayearst, L., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Pollock, B. G., & Bagby, R. M." year="2013" title="The psychometric properties of the personality inventory for DSM-5 in an APA DSM-5 field trial sample." journal="Assessment," volume="20" issue="(3)," pages="362-369." %}
 
-{% include publication authors="Markon, K., & <b><font color='#1b417d'>Chmielewski, M.</font></b> (2013)" title="The Effect of Response Model Misspecification and Uncertainty on the Psychometric Properties of Estimates" journal="New Developments in Quantitative Psychology" doi="10.1007/978-1-4614-9348-8_7"%}
+{% include publication authors="Markon, K., & <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="2013" title="The Effect of Response Model Misspecification and Uncertainty on the Psychometric Properties of Estimates." journal="New Developments in Quantitative Psychology" %}
+
+{% include publication authors="Markon, K., & <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="2013" title="The Effect of Response Model Misspecification and Uncertainty on the Psychometric Properties of Estimates. In Springer Proceedings in Mathematics & Statistics (PROMS, Volume 66)," journal="New Developments in Quantitative Psychology." pages="(pp. 85-114). NY:Springer." %}
+
+{% include publication authors="<b><font color='#1b417d'>Chmielewski, M.</font></b>, & <b><font color='#1b417d'>Trujillo, M.</font></b>" year="2020" title="The need for a more rigorous approach to diagnostic reliability: Commentary on categorical assessment of personality disorders. In C. W. Lejuez & K. L. Gratz (Eds.)," journal="Handbook of Personality Disorders." pages="(pp. 369-372). NY:Cambridge University Press." %}
 
 <hr>
 
 <h2 data-magellan-destination="2012">2012</h2>
 <a name="2012"></a>
 
-{% include publication authors="Watson, D., O’Hara, M. W., Naragon-Gainey, K., Koffel, E., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Kotov, R., Stasik, S. M., & Ruggero, C. J. (2012)" title="Development and validation of new anxiety and bipolar symptom scales for an expanded version of the IDAS (the IDAS-II)" journal="Assessment, 19(4), 399–420" doi="10.1007/978-1-4614-9348-8_7"%}
+{% include publication authors="Watson, D., O’Hara, M. W., Naragon-Gainey, K., Koffel, E., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Kotov, R., Stasik, S. M., & Ruggero, C. J." year="2012" title="Development and validation of new anxiety and bipolar symptom scales for an expanded version of the IDAS (the IDAS-II)." journal="Assessment," volume="19" issue="(4)," pages="399-420." %}
 
-{% include publication authors="Stasik, S. M., Naragon-Gainey, K., <b><font color='#1b417d'>Chmielewski, M.</font></b>, & Watson, D. (2012)" title="Core OCD Symptoms: Exploration of Specificity and Relations with Psychopathology" journal="Journal of Anxiety Disorders, 26(8), 859–870" doi="10.1016/j.janxdis.2012.07.007" pmid="23026094"%}
+{% include publication authors="Stasik, S. M., Naragon-Gainey, K., <b><font color='#1b417d'>Chmielewski, M.</font></b>, & Watson, D." year="2012" title="Core OCD Symptoms: Exploration of Specificity and Relations with Psychopathology." journal="Journal of Anxiety Disorders," volume="26" issue="(8)," pages="859-870." %}
 
