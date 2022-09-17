@@ -2,7 +2,7 @@
     <div class="row">
         <div class="small-12 columns">
             <p>
-                {{ include.authors }}.
+                {{ include.authors }}
                 ({{ include.year }}).
                 {{ include.title }}.
                 <em>{{ include.journal }}</em>
