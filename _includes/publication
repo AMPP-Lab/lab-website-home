@@ -5,8 +5,7 @@
                 {{ include.authors }}.
                 ({{ include.year }}).
                 {{ include.title }}.
-                <em>{{ include.journal }}</em>
-                <em>{{ include.volume }}</em>
+                <em>{{ include.journal }}</em><em>{{ include.volume }}</em>
                 {{include.issue }}
                 {{ include.pages }}
             </p>
