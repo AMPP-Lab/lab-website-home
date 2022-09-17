@@ -19,7 +19,7 @@
             </p>
         </div>
         <div class="small-2 columns">
-            <div data-badge-popover="right" data-badge-type="donut" data-doi="{{ include.doi }}" data-hide-no-mentions="false" class="altmetric-embed"></div>
+            <div data-badge-popover="right" data-badge-type="donut" data-doi="{{ include.doi }}" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>
         </div>
     </div>
 </div>
