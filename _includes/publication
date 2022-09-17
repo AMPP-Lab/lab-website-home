@@ -8,7 +8,7 @@
                 <em>{{ include.journal }}</em>,
                 <em>{{ include.volume }}</em>
                 {{ include.issue }}
-                {{ include.pages}}
+                {{ include.pages }}
             </p>
         </div>
     </div>
