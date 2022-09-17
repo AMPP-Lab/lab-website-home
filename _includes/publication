@@ -3,17 +3,12 @@
         <div class="small-12 columns">
             <p>
                 {{ include.authors }}.
+                ({{ include.year }}).
                 <b>{{ include.title }}</b>.
-                {{ include.journal }}.
-                <br>
-
-                {% if include.pmid %}
-                    <b>pmid</b>: <a href="{{ 'https://www.ncbi.nlm.nih.gov/pubmed/' | append: include.pmid }}">{{ include.pmid }};</a> 
-                {% endif %} 
-
-                {% if include.doi %}
-                    <b>doi</b>: <a href="{{ 'http://dx.doi.org/' | append: include.doi }}">{{ include.doi }}</a>
-                {% endif %}  
+                <em>{{ include.journal }}</em>,
+                <em>{{ include.volume }}</em>
+                ({{ include.issue }}), 
+                {{ include.pages}}.
             </p>
         </div>
     </div>
