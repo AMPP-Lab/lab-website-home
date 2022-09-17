@@ -50,11 +50,11 @@ header:
 <h2 data-magellan-destination="2021">2021</h2>
 <a name="2021"></a>
 
-{% include publication authors="Kucker, S. C., Zimmerman, C., & <b><font color='#1b417d'>Chmielewski, M.</font></b> (2021)" title="Taking parent personality and child temperament into account in child language development" journal="The British Journal of Developmental Psychology, 39(4), 540–565" doi="10.1111/bjdp.12379" pmid="33987860"%}
+{% include publication authors="Kucker, S. C., Zimmerman, C., & <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="2021" title="Taking parent personality and child temperament into account in child language development" journal="The British Journal of Developmental Psychology," volume="39" issue="(4)," pages="540-565." %}
 
-{% include publication authors="Nordberg, H., Kroll, J. L., Rosenfield, D., <b><font color='#1b417d'>Chmielewski, M.</font></b>, & Ritz, T. (2022)" title="Chronic stress experience, sleep, and physical activity: Relations with change in negative affect and acute stress response to a naturalistic stressor" journal="British Journal of Health Psychology, 27(2)" doi="10.1111/bjhp.12554" pmid="34423530"%}
+{% include publication authors="Nordberg, H., Kroll, J. L., Rosenfield, D., <b><font color='#1b417d'>Chmielewski, M.</font></b>, & Ritz, T." year="2021"  title="Chronic stress experience, sleep, and physical activity: Relations with change in negative affect and acute stress response to a naturalistic stressor" journal="British Journal of Health Psychology, 27(2)" volume="27" issue="(2)," pages="449-467." %}
 
-{% include publication authors="Krueger, R. F., Kotov, R., Watson, D., Forbes, M. K., Eaton, N. R., Ruggero, C. J., Simms, L. J., Widiger, T. A., Achenbach, T. M., Bach, B., Bagby, R. M., Bornovalova, M. A., Carpenter, W. T., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Cicero, D. C., Clark, L. A., Conway, C., DeClercq, B., DeYoung, C. G., … Zimmermann, J. (2021)" title="Les progrès dans la réalisation de la classification quantitative de la psychopathologie" journal="Annales Medico-Psychologiques, 179(1), 95–106" doi="10.1016/j.amp.2020.11.015" pmid="34305151"%}
+{% include publication authors="Krueger, R. F., Kotov, R., Watson, D., Forbes, M. K., Eaton, N. R., Ruggero, C. J., Simms, L. J., Widiger, T. A., Achenbach, T. M., Bach, B., Bagby, R. M., Bornovalova, M. A., Carpenter, W. T., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Cicero, D. C., Clark, L. A., Conway, C., DeClercq, B., DeYoung, C. G., … Zimmermann, J." year="2021" title="Les progrès dans la réalisation de la classification quantitative de la psychopathologie" journal="Annales Medico-Psychologiques,"  volume="179" issue="(1)," pages="95-106."%}
 
 <hr>
 
