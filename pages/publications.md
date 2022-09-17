@@ -101,101 +101,87 @@ header:
 <h2 data-magellan-destination="2018">2018</h2>
 <a name="2018"></a>
 
-{% include publication authors="Fonseca-Pedrero, E., Ortuño, J., Debbané, M., Chan, R. C. K., Cicero, D., Zhang, L. C., Brenner, C., Barkus, E., Linscott, R. J., Kwapil, T., Barrantes-Vidal, N., Cohen, A., Raine, A., Compton, M. T., Tone, E. B., Suhr, J., Inchausti, F., Bobes, J., Fumero, A., Giakoumaki, S., Tsaousis, I., Preti, A., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Laloyaux, J., Mechri, A., Lahmar, M. A., Wuthrich, V., Lar&#248;i, F., Fried, E. I. (2018)" title="The Network Structure of Schizotypal Personality Traits" journal="Schizophrenia Bulletin, 44(suppl_2), S468–S479" doi="10.1093/schbul/sby044" pmid="29684178"%}
+{% include publication authors="Fonseca-Pedrero, E., Ortuño, J., Debbané, M., Chan, R. C. K., Cicero, D., Zhang, L. C., Brenner, C., Barkus, E., Linscott, R. J., Kwapil, T., Barrantes-Vidal, N., Cohen, A., Raine, A., Compton, M. T., Tone, E. B., Suhr, J., Inchausti, F., Bobes, J., Fumero, A., Giakoumaki, S., Tsaousis, I., Preti, A., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Laloyaux, J., Mechri, A., Lahmar, M. A., Wuthrich, V., Lar&#248;i, F., Badcock, J. C., Jablensky, A., Isvoranu, A. M., Epskamp, S., Fried, E. I. (2018)" title="The Network Structure of Schizotypal Personality Traits" journal="Schizophrenia Bulletin, 44(suppl_2), S468–S479" doi="10.1093/schbul/sby044" pmid="29684178"%}
 
-{% include publication authors="Krueger, R. F., Kotov, R., Watson, D., Forbes, M. K., Eaton, N. R., Ruggero, C. J., Simms, L. J., Widiger, T. A., Achenbach, T. M., Bach, B., Bagby, R. M., Bornovalova, M. A., Carpenter, W. T., Chmielewski, M., Cicero, D. C., Clark, L. A., Conway, C., DeClercq, B., DeYoung, C. G., … Zimmermann, J. (2018)" title="Progress in achieving quantitative classification of psychopathology" journal="World Psychiatry: Official Journal of the World Psychiatric Association (WPA), 17(3), 282–293" doi="10.1002/wps.20566" pmid="30229571"%}
+{% include publication authors="Krueger, R. F., Kotov, R., Watson, D., Forbes, M. K., Eaton, N. R., Ruggero, C. J., Simms, L. J., Widiger, T. A., Achenbach, T. M., Bach, B., Bagby, R. M., Bornovalova, M. A., Carpenter, W. T., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Cicero, D. C., Clark, L. A., Conway, C., DeClercq, B., DeYoung, C. G., … Zimmermann, J. (2018)" title="Progress in achieving quantitative classification of psychopathology" journal="World Psychiatry: Official Journal of the World Psychiatric Association (WPA), 17(3), 282–293" doi="10.1002/wps.20566" pmid="30229571"%}
 
-{% include publication authors="Krueger, R. F., Kotov, R., Watson, D., Forbes, M. K., Eaton, N. R., Ruggero, C. J., Simms, L. J., Widiger, T. A., Achenbach, T. M., Bach, B., Bagby, R. M., Bornovalova, M. A., Carpenter, W. T., Chmielewski, M., Cicero, D. C., Clark, L. A., Conway, C., DeClercq, B., DeYoung, C. G., … Zimmermann, J. (2018)" title="Progress in achieving quantitative classification of psychopathology" journal="World Psychiatry: Official Journal of the World Psychiatric Association (WPA), 17(3), 282–293" doi="10.1002/wps.20566" pmid="30229571"%}
+{% include publication authors="Krueger, R. F., Kotov, R., Watson, D., Forbes, M. K., Eaton, N. R., Ruggero, C. J., Simms, L. J., Widiger, T. A., Achenbach, T. M., Bach, B., Bagby, R. M., Bornovalova, M. A., Carpenter, W. T., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Cicero, D. C., Clark, L. A., Conway, C., DeClercq, B., DeYoung, C. G., … Zimmermann, J. (2018)" title="Progress in achieving quantitative classification of psychopathology" journal="World Psychiatry: Official Journal of the World Psychiatric Association (WPA), 17(3), 282–293" doi="10.1002/wps.20566" pmid="30229571"%}
 
-{% include publication authors="Gerritsen, C. J., Chmielewski, M., Zakzanis, K., & Bagby, R. M. (2018)" title="Examining the dimensions of schizotypy from the top down: A hierarchical comparison of item-level factor solutions" journal="Personality Disorders: Theory, Research, and Treatment, 9(5), 467–477" doi="10.1037/per0000283" pmid="29927295"%}
+{% include publication authors="Gerritsen, C. J., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Zakzanis, K., & Bagby, R. M. (2018)" title="Examining the dimensions of schizotypy from the top down: A hierarchical comparison of item-level factor solutions" journal="Personality Disorders: Theory, Research, and Treatment, 9(5), 467–477" doi="10.1037/per0000283" pmid="29927295"%}
 
-{% include publication authors="Fonseca-Pedrero, E., Chan, R. C. K., Debbané, M., Cicero, D., Zhang, L. C., Brenner, C., Barkus, E., Linscott, R. J., Kwapil, T., Barrantes-Vidal, N., Cohen, A., Raine, A., Compton, M. T., Tone, E. B., Suhr, J., Muñiz, J., de Albéniz, A. P., Fumero, A., Giakoumaki, S., … Ortuño-Sierra, J. (2018)" title="Comparisons of schizotypal traits across 12 countries: Results from the International Consortium for Schizotypy Research" journal="Schizophrenia Research, 199, 128–134" doi="10.1016/j.schres.2018.03.021" pmid="29567403"%}
+{% include publication authors="Fonseca-Pedrero, E., Chan, R. C. K., Debbané, M., Cicero, D., Zhang, L. C., Brenner, C., Barkus, E., Linscott, R. J., Kwapil, T., Barrantes-Vidal, N., Cohen, A., Raine, A., Compton, M. T., Tone, E. B., Suhr, J., Muñiz, J., de Albéniz, A. P., Fumero, A., Giakoumaki, S., Tsaousis, I., Preti, A., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Laloyaux, J., Mechri, A., Lahmar, M. A., Wuthrich, V., Lar&#248;i, F., Badcock, J. C., Jablensky, A., Ortuño-Sierra, J. (2018)" title="Comparisons of schizotypal traits across 12 countries: Results from the International Consortium for Schizotypy Research" journal="Schizophrenia Research, 199, 128–134" doi="10.1016/j.schres.2018.03.021" pmid="29567403"%}
 
-{% include publication authors="Fonseca-Pedrero, E., Ortuño-Sierra, J., Lucas-Molina, B., Debbané, M., Chan, R. C. K., Cicero, D. C., Zhang, L. C., Brenner, C., Barkus, E., Linscott, R. J., Kwapil, T., Barrantes-Vidal, N., Cohen, A., Raine, A., Compton, M. T., Tone, E. B., Suhr, J., Bobes, J., Fumero, A., … Voracek, M. (2018)" title="Brief assessment of schizotypal traits: A multinational study" journal="Schizophrenia Research, 197, 182–191" doi="10.1016/j.schres.2017.10.043" pmid="29113776"%}
+{% include publication authors="Fonseca-Pedrero, E., Ortuño-Sierra, J., Lucas-Molina, B., Debbané, M., Chan, R. C. K., Cicero, D. C., Zhang, L. C., Brenner, C., Barkus, E., Linscott, R. J., Kwapil, T., Barrantes-Vidal, N., Cohen, A., Raine, A., Compton, M. T., Tone, E. B., Suhr, J., Bobes, J., Fumero, A., Giakoumaki, S., Tsaousis, I., Preti, A., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Laloyaux, J., Mechri, A., Lahmar, M. A., Wuthrich, V., Lar&#248;i, F., Badcock, J. C., Jablensky, A., Barron, D., Swami, V., Tran, U. S., Voracek, M. (2018)" title="Brief assessment of schizotypal traits: A multinational study" journal="Schizophrenia Research, 197, 182–191" doi="10.1016/j.schres.2017.10.043" pmid="29113776"%}
 
-{% include publication authors="Sasson, N. J., Morrison, K. E., Pinkham, A. E., Faso, D. J., & Chmielewski, M. (2018)" title="Brief Report: Adults with Autism are Less Accurate at Predicting How Their Personality Traits are Evaluated by Unfamiliar Observers" journal="Journal of Autism and Developmental Disorders, 48(6), 2243–2248" doi="10.1007/s10803-018-3487-z" pmid="29417437"%}
+{% include publication authors="Sasson, N. J., Morrison, K. E., Pinkham, A. E., Faso, D. J., & <b><font color='#1b417d'>Chmielewski, M.</font></b> (2018)" title="Brief Report: Adults with Autism are Less Accurate at Predicting How Their Personality Traits are Evaluated by Unfamiliar Observers" journal="Journal of Autism and Developmental Disorders, 48(6), 2243–2248" doi="10.1007/s10803-018-3487-z" pmid="29417437"%}
 
-{% include publication authors="Rochefort, C., Baldwin, A. S., & Chmielewski, M. (2018)" title="Experiential Avoidance: An Examination of the Construct Validity of the AAQ-II and MEAQ" journal="Behavior Therapy, 49(3), 435–449" doi="10.1016/j.beth.2017.08.008" pmid="29704971"%}
+{% include publication authors="Rochefort, C., Baldwin, A. S., & <b><font color='#1b417d'>Chmielewski, M.</font></b> (2018)" title="Experiential Avoidance: An Examination of the Construct Validity of the AAQ-II and MEAQ" journal="Behavior Therapy, 49(3), 435–449" doi="10.1016/j.beth.2017.08.008" pmid="29704971"%}
 
-{% include publication authors="Hopwood, C. J., Kotov, R., Krueger, R. F., Watson, D., Widiger, T. A., Althoff, R. R., Ansell, E. B., Bach, B., Michael Bagby, R., Blais, M. A., Bornovalova, M. A., Chmielewski, M., Cicero, D. C., Conway, C., De Clercq, B., De Fruyt, F., Docherty, A. R., Eaton, N. R., Edens, J. F., … Zimmermann, J. (2018)" title="The time has come for dimensional personality disorder diagnosis" journal="Personality and Mental Health, 12(1), 82–86" doi="10.1002/pmh.1408" pmid="29226598"%}
+{% include publication authors="Hopwood, C. J., Kotov, R., Krueger, R. F., Watson, D., Widiger, T. A., Althoff, R. R., Ansell, E. B., Bach, B., Michael Bagby, R., Blais, M. A., Bornovalova, M. A., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Cicero, D. C., Conway, C., De Clercq, B., De Fruyt, F., Docherty, A. R., Eaton, N. R., Edens, J. F., … Zimmermann, J. (2018)" title="The time has come for dimensional personality disorder diagnosis" journal="Personality and Mental Health, 12(1), 82–86" doi="10.1002/pmh.1408" pmid="29226598"%}
 
-{% include publication authors="Fonseca-Pedrero, E., Debbané, M., Ortuño-Sierra, J., Chan, R. C. K., Cicero, D. C., Zhang, L. C., Brenner, C., Barkus, E., Linscott, R. J., Kwapil, T., Barrantes-Vidal, N., Cohen, A., Raine, A., Compton, M. T., Tone, E. B., Suhr, J., Muñiz, J., Fumero, A., Giakoumaki, S., … Jablensky, A. (2018)" title="The structure of schizotypal personality traits: A cross-national study" journal="Psychological Medicine, 48(3), 451–462" doi="10.1017/S0033291717001829" pmid="28712364"%}
+{% include publication authors="Fonseca-Pedrero, E., Debbané, M., Ortuño-Sierra, J., Chan, R. C. K., Cicero, D. C., Zhang, L. C., Brenner, C., Barkus, E., Linscott, R. J., Kwapil, T., Barrantes-Vidal, N., Cohen, A., Raine, A., Compton, M. T., Tone, E. B., Suhr, J., Muñiz, J., Fumero, A., Giakoumaki, S., Tsaousis, I., Preti, A., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Laloyaux, J., Mechri, A., Lahmar, M. A., Wuthrich, V., Lar&#248;i, F., Badcock, J. C., Jablensky, A. (2018)" title="The structure of schizotypal personality traits: A cross-national study" journal="Psychological Medicine, 48(3), 451–462" doi="10.1017/S0033291717001829" pmid="28712364"%}
 
 <hr>
 
 <h2 data-magellan-destination="2017">2017</h2>
 <a name="2017"></a>
 
-{% include publication authors="Chmielewski, M., Zhu, J., Burchett, D., Bury, A. S., & Bagby, R. M. (2017)" title="The comparative capacity of the Minnesota Multiphasic Personality Inventory-2 (MMPI-2) and MMPI-2 Restructured Form (MMPI-2-RF) validity scales to detect suspected malingering in a disability claimant sample" journal="Psychological Assessment, 29(2), 199–208" doi="10.1037/pas0000328" pmid="27183046"%}
+{% include publication authors="<b><font color='#1b417d'>Chmielewski, M.</font></b>, Zhu, J., Burchett, D., Bury, A. S., & Bagby, R. M. (2017)" title="The comparative capacity of the Minnesota Multiphasic Personality Inventory-2 (MMPI-2) and MMPI-2 Restructured Form (MMPI-2-RF) validity scales to detect suspected malingering in a disability claimant sample" journal="Psychological Assessment, 29(2), 199–208" doi="10.1037/pas0000328" pmid="27183046"%}
 
-{% include publication authors="Tang, R., Silva, L., & Chmielewski, M. (2017)" title="C-39 Is Non-Verbal Problem Solving Dependent on Language?" journal="Archives of Clinical Neuropsychology, 32(6), 667–765" doi="10.1093/arclin/acx076.206"%}
+{% include publication authors="Tang, R., Silva, L., & <b><font color='#1b417d'>Chmielewski, M.</font></b> (2017)" title="C-39 Is Non-Verbal Problem Solving Dependent on Language?" journal="Archives of Clinical Neuropsychology, 32(6), 667–765" doi="10.1093/arclin/acx076.206"%}
 
-{% include publication authors="Chmielewski, M., Ruggero, C. J., Kotov, R., Liu, K., & Krueger, R. F. (2017)" title="Comparing the dependability and associations with functioning of the DSM-5 Section III trait model of personality pathology and the DSM-5 Section II personality disorder model" journal="Personality Disorders, 8(3), 228–236" doi="10.1037/per0000213"%}
+{% include publication authors="<b><font color='#1b417d'>Chmielewski, M.</font></b>, Ruggero, C. J., Kotov, R., Liu, K., & Krueger, R. F. (2017)" title="Comparing the dependability and associations with functioning of the DSM-5 Section III trait model of personality pathology and the DSM-5 Section II personality disorder model" journal="Personality Disorders, 8(3), 228–236" doi="10.1037/per0000213"%}
 
 <hr>
 
 <h2 data-magellan-destination="2016">2016</h2>
 <a name="2016"></a>
 
-{% include publication authors="Chmielewski, M., Sala, M., Tang, R., & Baldwin, A. (2016)" title="Examining the construct validity of affective judgments of physical activity measures" journal="Psychological Assessment, 28(9), 1128–1141" doi="10.1037/pas0000322" pmid="27537007"%}
+{% include publication authors="<b><font color='#1b417d'>Chmielewski, M.</font></b>, Sala, M., Tang, R., & Baldwin, A. (2016)" title="Examining the construct validity of affective judgments of physical activity measures" journal="Psychological Assessment, 28(9), 1128–1141" doi="10.1037/pas0000322" pmid="27537007"%}
 
-{% include publication authors="Meuret, A. E., Chmielewski, M., Steele, A. M., Rosenfield, D., Petersen, S., Smits, J. A. J., Simon, N. M., Otto, M. W., Marques, L., Pollack, M. H., & Hofmann, S. G. (2016)" title="The desire to belong: Social identification as a predictor of treatment outcome in social anxiety disorder" journal="Behaviour Research and Therapy, 81, 21–34" doi="10.1016/j.brat.2016.03.008" pmid="27070526"%}
+{% include publication authors="Meuret, A. E., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Steele, A. M., Rosenfield, D., Petersen, S., Smits, J. A. J., Simon, N. M., Otto, M. W., Marques, L., Pollack, M. H., & Hofmann, S. G. (2016)" title="The desire to belong: Social identification as a predictor of treatment outcome in social anxiety disorder" journal="Behaviour Research and Therapy, 81, 21–34" doi="10.1016/j.brat.2016.03.008" pmid="27070526"%}
 
 <hr>
 
 <h2 data-magellan-destination="2015">2015</h2>
 <a name="2015"></a>
 
-{% include publication authors="Watson, D., Stasik, S. M., Chmielewski, M., & Naragon-Gainey, K. (2015)" title="Development and Validation of the Temperament and Affectivity Inventory (TAI)" journal="Assessment, 22(5), 540–560" doi="10.1177/1073191114557943" pmid="25395576"%}
+{% include publication authors="Watson, D., Stasik, S. M., <b><font color='#1b417d'>Chmielewski, M.</font></b>, & Naragon-Gainey, K. (2015)" title="Development and Validation of the Temperament and Affectivity Inventory (TAI)" journal="Assessment, 22(5), 540–560" doi="10.1177/1073191114557943" pmid="25395576"%}
 
-{% include publication authors="Anderson, J. L., Sellbom, M., Ayearst, L., Quilty, L. C., Chmielewski, M., & Bagby, R. M. (2015)" title="Associations between DSM-5 section III personality traits and the Minnesota Multiphasic Personality Inventory 2-Restructured Form (MMPI-2-RF) scales in a psychiatric patient sample" journal="Psychological Assessment, 27(3), 801–815" doi="10.1037/pas0000096" pmid="25822829"%}
+{% include publication authors="Anderson, J. L., Sellbom, M., Ayearst, L., Quilty, L. C., <b><font color='#1b417d'>Chmielewski, M.</font></b>, & Bagby, R. M. (2015)" title="Associations between DSM-5 section III personality traits and the Minnesota Multiphasic Personality Inventory 2-Restructured Form (MMPI-2-RF) scales in a psychiatric patient sample" journal="Psychological Assessment, 27(3), 801–815" doi="10.1037/pas0000096" pmid="25822829"%}
 
-{% include publication authors="Chmielewski, M., Clark, L. A., Bagby, R. M., & Watson, D. (2015)" title="Method matters: Understanding diagnostic reliability in DSM-IV and DSM-5" journal="Journal of Abnormal Psychology, 124(3), 764" doi="10.1037/abn0000069" pmid="26098046"%}
+{% include publication authors="<b><font color='#1b417d'>Chmielewski, M.</font></b>, Clark, L. A., Bagby, R. M., & Watson, D. (2015)" title="Method matters: Understanding diagnostic reliability in DSM-IV and DSM-5" journal="Journal of Abnormal Psychology, 124(3), 764" doi="10.1037/abn0000069" pmid="26098046"%}
 
-{% include publication authors="Keeley, J. W., Chmielewski, M. S., & Bagby, R. M. (2015)" title="Interaction effects in comorbid psychopathology" journal="Comprehensive Psychiatry, 60, 35–39" doi="10.1016/j.comppsych.2015.04.008" pmid="25953706"%}
+{% include publication authors="Keeley, J. W., <b><font color='#1b417d'>Chmielewski, M. S.</font></b>, & Bagby, R. M. (2015)" title="Interaction effects in comorbid psychopathology" journal="Comprehensive Psychiatry, 60, 35–39" doi="10.1016/j.comppsych.2015.04.008" pmid="25953706"%}
  
 <hr>
 
 <h2 data-magellan-destination="2014">2014</h2>
 <a name="2014"></a>
 
-{% include publication authors="Chmielewski, M., Bagby, R. M., Markon, K., Ring, A. J., & Ryder, A. G. (2014)" title="Openness to experience, intellect, schizotypal personality disorder, and psychoticism: Resolving the controversy" journal="Journal of Personality Disorders, 28(4), 483–499" doi="10.1521/pedi_2014_28_128" pmid="24511900"%}
+{% include publication authors="<b><font color='#1b417d'>Chmielewski, M.</font></b>, Bagby, R. M., Markon, K., Ring, A. J., & Ryder, A. G. (2014)" title="Openness to experience, intellect, schizotypal personality disorder, and psychoticism: Resolving the controversy" journal="Journal of Personality Disorders, 28(4), 483–499" doi="10.1521/pedi_2014_28_128" pmid="24511900"%}
 
-{% include publication authors="Bagby, R. M., Sellbom, M., Ayearst, L. E., Chmielewski, M. S., Anderson, J. L., & Quilty, L. C. (2014)" title="Exploring the hierarchical structure of the MMPI-2-RF Personality Psychopathology Five in psychiatric patient and university student samples" journal="Journal of Personality Assessment, 96(2), 166–172" doi="10.1080/00223891.2013.825623" pmid="24004403"%}
+{% include publication authors="Bagby, R. M., Sellbom, M., Ayearst, L. E., <b><font color='#1b417d'>Chmielewski, M. S.</font></b>, Anderson, J. L., & Quilty, L. C. (2014)" title="Exploring the hierarchical structure of the MMPI-2-RF Personality Psychopathology Five in psychiatric patient and university student samples" journal="Journal of Personality Assessment, 96(2), 166–172" doi="10.1080/00223891.2013.825623" pmid="24004403"%}
 
-{% include publication authors="Gámez, W., Chmielewski, M., Kotov, R., Ruggero, C., Suzuki, N., & Watson, D. (2014)" title="The brief experiential avoidance questionnaire: Development and initial validation" journal="Psychological Assessment, 26(1), 35–45" doi="10.1037/a0034473" pmid="24059474"%}
+{% include publication authors="Gámez, W., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Kotov, R., Ruggero, C., Suzuki, N., & Watson, D. (2014)" title="The brief experiential avoidance questionnaire: Development and initial validation" journal="Psychological Assessment, 26(1), 35–45" doi="10.1037/a0034473" pmid="24059474"%}
  
 <hr>
 
 <h2 data-magellan-destination="2013">2013</h2>
 <a name="2013"></a>
 
-{% include publication authors="Watson, D., Clark, L. A., Chmielewski, M., & Kotov, R. (2013)" title="The value of suppressor effects in explicating the construct validity of symptom measures" journal="Psychological Assessment, 25(3), 929–941" doi="10.1037/a0032781" pmid="23795886"%}
+{% include publication authors="Watson, D., Clark, L. A., <b><font color='#1b417d'>Chmielewski, M.</font></b>, & Kotov, R. (2013)" title="The value of suppressor effects in explicating the construct validity of symptom measures" journal="Psychological Assessment, 25(3), 929–941" doi="10.1037/a0032781" pmid="23795886"%}
 
-{% include publication authors="Quilty, L. C., Ayearst, L., Chmielewski, M., Pollock, B. G., & Bagby, R. M. (2013)" title="The psychometric properties of the personality inventory for DSM-5 in an APA DSM-5 field trial sample" journal="Assessment, 20(3), 362–369" doi="10.1177/1073191113486183" pmid="23588687"%}
+{% include publication authors="Quilty, L. C., Ayearst, L., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Pollock, B. G., & Bagby, R. M. (2013)" title="The psychometric properties of the personality inventory for DSM-5 in an APA DSM-5 field trial sample" journal="Assessment, 20(3), 362–369" doi="10.1177/1073191113486183" pmid="23588687"%}
 
-{% include publication authors="Markon, K., & Chmielewski, M. (2013)" title="The Effect of Response Model Misspecification and Uncertainty on the Psychometric Properties of Estimates" journal="New Developments in Quantitative Psychology" doi="10.1007/978-1-4614-9348-8_7"%}
+{% include publication authors="Markon, K., & <b><font color='#1b417d'>Chmielewski, M.</font></b> (2013)" title="The Effect of Response Model Misspecification and Uncertainty on the Psychometric Properties of Estimates" journal="New Developments in Quantitative Psychology" doi="10.1007/978-1-4614-9348-8_7"%}
 
 <hr>
 
 <h2 data-magellan-destination="2012">2012</h2>
 <a name="2012"></a>
 
-{% include publication authors="Watson, D., O’Hara, M. W., Naragon-Gainey, K., Koffel, E., Chmielewski, M., Kotov, R., Stasik, S. M., & Ruggero, C. J. (2012)" title="Development and validation of new anxiety and bipolar symptom scales for an expanded version of the IDAS (the IDAS-II)" journal="Assessment, 19(4), 399–420" doi="10.1007/978-1-4614-9348-8_7"%}
+{% include publication authors="Watson, D., O’Hara, M. W., Naragon-Gainey, K., Koffel, E., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Kotov, R., Stasik, S. M., & Ruggero, C. J. (2012)" title="Development and validation of new anxiety and bipolar symptom scales for an expanded version of the IDAS (the IDAS-II)" journal="Assessment, 19(4), 399–420" doi="10.1007/978-1-4614-9348-8_7"%}
 
-{% include publication authors="Stasik, S. M., Naragon-Gainey, K., Chmielewski, M., & Watson, D. (2012)" title="Core OCD Symptoms: Exploration of Specificity and Relations with Psychopathology" journal="Journal of Anxiety Disorders, 26(8), 859–870" doi="10.1016/j.janxdis.2012.07.007" pmid="23026094"%}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+{% include publication authors="Stasik, S. M., Naragon-Gainey, K., <b><font color='#1b417d'>Chmielewski, M.</font></b>, & Watson, D. (2012)" title="Core OCD Symptoms: Exploration of Specificity and Relations with Psychopathology" journal="Journal of Anxiety Disorders, 26(8), 859–870" doi="10.1016/j.janxdis.2012.07.007" pmid="23026094"%}
 
