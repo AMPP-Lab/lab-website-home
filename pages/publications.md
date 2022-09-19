@@ -172,7 +172,7 @@ header:
 
 {% include publication authors="Quilty, L. C., Ayearst, L., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Pollock, B. G., & Bagby, R. M." year="2013" title="The psychometric properties of the personality inventory for DSM-5 in an APA DSM-5 field trial sample." journal="Assessment," volume="20" issue="(3)," pages="362-369." %}
 
-{% include publication authors="Markon, K., & <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="2013" title="The Effect of Response Model Misspecification and Uncertainty on the Psychometric Properties of Estimates. In Springer Proceedings in Mathematics & Statistics (PROMS, Volume 66)," journal="New Developments in Quantitative Psychology." pages="(pp. 85-114). NY:Springer." %}
+{% include publication authors="Markon, K., & <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="2013" title="The Effect of Response Model Misspecification and Uncertainty on the Psychometric Properties of Estimates. In Springer Proceedings in Mathematics & Statistics (PROMS, Volume 66)," journal="New Developments in Quantitative Psychology." pages="(pp. 85-114). Springer." %}
 
 <hr>
 
