@@ -30,7 +30,7 @@ homepage: true
 <div class="row">
   <div class="small-12 columns">
     <img src="/lab-website-home/assets/img/lab_photo.jpg">
-    <figcaption>L to R: Elizabeth Bell, Caroline Lee, Mike Chmielewski, Alexa Jimenez, Mayson Trujillo</figcaption>
+    <figcaption>Left to Right: Elizabeth Bell, Caroline Lee, Mike Chmielewski, Alexa Jimenez, Mayson Trujillo</figcaption>
   </div>
 </div>
 
