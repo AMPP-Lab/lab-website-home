@@ -29,7 +29,7 @@ homepage: true
 
 <div class="row">
   <div class="small-12 columns">
-    <img src="/lab-website-home/assets/img/lab_photo.png">
+    <img src="/lab-website-home/assets/img/lab_photo.jpg">
   </div>
 </div>
 
