@@ -1,5 +1,5 @@
 - selector: slider
-  bullets: true
+  bullets: false
   captions: true
   images:
     - src: /assets/img/lab_photo_1.jpg
@@ -7,5 +7,13 @@
     - src: /assets/img/lab_photo_2.jpg
       title: AMPP Lab STAR
   settings:
-    height: "'auto'"
-    effect: "'fade'"
+    height: 400
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
