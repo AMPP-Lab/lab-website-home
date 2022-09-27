@@ -4,7 +4,7 @@
   images:
     - src: /assets/img/lab_photo_1.jpg
       title: AMPP Lab Fall 2022
-    - data-src: /assets/img/lab_photo_2.jpg
+    - src: /assets/img/lab_photo_2.jpg
       title: AMPP Lab STAR
   settings:
     height: "'auto'"
