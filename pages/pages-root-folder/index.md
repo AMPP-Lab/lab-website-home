@@ -32,12 +32,12 @@ homepage: true
 
   <!-- Full-width images with number text -->
   <div class="mySlides">
-    <div class="numbertext">1 / 6</div>
+    <div class="numbertext">1 / 2</div>
       <img src="/lab-website-home/assets/img/lab_photo_1.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">2 / 6</div>
+    <div class="numbertext">2 / 2</div>
       <img src="/lab-website-home/assets/img/lab_photo_2.jpg" style="width:100%">
   </div>
 
