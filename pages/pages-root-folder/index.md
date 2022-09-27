@@ -27,10 +27,37 @@ homepage: true
 
 ---
 
-<div class="row">
-  <div class="small-12 columns">
-    <img src="/lab-website-home/assets/img/lab_photo.jpg">
-    <figcaption>Left to Right: Elizabeth Bell, Caroline Lee, Mike Chmielewski, Alexa Jimenez, Mayson Trujillo</figcaption>
+<!-- Container for the image gallery -->
+<div class="container">
+
+  <!-- Full-width images with number text -->
+  <div class="mySlides">
+    <div class="numbertext">1 / 6</div>
+      <img src="/lab-website-home/assets/img/lab_photo_1.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">2 / 6</div>
+      <img src="/lab-website-home/assets/img/lab_photo_2.jpg" style="width:100%">
+  </div>
+
+  <!-- Next and previous buttons -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+  <!-- Image text -->
+  <div class="caption-container">
+    <p id="caption"></p>
+  </div>
+
+  <!-- Thumbnail images -->
+  <div class="row">
+    <div class="column">
+      <img class="demo cursor" src="/lab-website-home/assets/img/lab_photo_1.jpg" style="width:100%" onclick="currentSlide(1)" alt="L to R: Elizabeth Bell, Caroline Lee, Mike Chmielewski, Alexa Jimenez, Mayson Trujillo">
+    </div>
+    <div class="column"> 
+      <img class="demo cursor" src="/lab-website-home/assets/img/lab_photo_2.jpg" style="width:100%" onclick="currentSlide(2)" alt="AMPP Lab STAR">
+    </div>
   </div>
 </div>
 
