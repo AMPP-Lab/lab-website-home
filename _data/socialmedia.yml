@@ -23,4 +23,16 @@
       class: icon-linkedin
       title: "Professional LinkedIn Account"
       
+- member_name: Elizabeth
+  social: 
+    - name: GitHub
+      url:  https://github.com/elicatbrain
+      class: icon-github
+      title: "GitHub Profile"
+    - name: Twitter 
+      url:  https://twitter.com/youmustbethe
+      class: icon-twitter 
+      title: "Professional Twitter Account" 
+ 
+      
  
