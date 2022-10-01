@@ -8,4 +8,19 @@
   class: icon-twitter
   title: "SMU Psychology Twitter"
 
-
+- member_name: Caroline
+  social: 
+    - name: GitHub
+      url: https://github.com/carolinelee78
+      class: icon-github
+      title: "GitHub Profile"
+    - name: Twitter 
+      url: https://twitter.com/HS_Caroline_Lee
+      class: icon-twitter 
+      title: "Professional Twitter Account" 
+    - name: linkedin
+      url: https://www.linkedin.com/in/carolinelee78/
+      class: icon-linkedin
+      title: "Professional LinkedIn Account"
+      
+ 
