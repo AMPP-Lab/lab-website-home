@@ -22,6 +22,10 @@
       url: https://www.linkedin.com/in/carolinelee78/
       class: icon-linkedin
       title: "Professional LinkedIn Account"
+    - name: Google Scholar
+      url: https://scholar.google.com/citations?user=ysLQBYIAAAAJ&hl=en
+      class: icon-google-scholar
+      title: "Google Scholar"
       
 - member_name: Elizabeth
   social: 
