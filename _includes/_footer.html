@@ -7,26 +7,22 @@
 
 <footer id="footer-content" class="bg-grau">
   <div id="footer">
-    <div class="row">
-      <div class="small-8 columns">
-         <p>
-         <a href="https://ampp-lab.github.io/lab-website-home/about/">ABOUT THIS SITE</a>
-         </p>
-         <div class="row">
-            <div class="small-8 columns">
-               <ul class="inline-list social-icons">
-                  {% for social_item in site.data.socialmedia %}
-                     <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
-                  {% endfor %}
-               </ul>
-            </div>
-         </div>
+     <div class="row">
+      <div class="small-8 columns"><p> <a href="https://ampp-lab.github.io/lab-website-home/about/">ABOUT THIS SITE</a> </p>
+      <div class="row">
+        <div class="small-8 columns">
+            <ul class="inline-list social-icons">
+                {% for social_item in site.data.socialmedia %}
+                   <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
+                {% endfor %}
+             </ul>
+        </div>
+        <div class="small-4 columns"></div>
       </div>
-    <div class="row">
-       <div class="small-8 columns">
-         <a href="https://www.smu.edu/Dedman/Academics/Departments/Psychology"><img src="/lab-website-home/images/smu_hitop_github.png"></a>
-       </div>
-     </div>
-   </div><!-- /.row -->
+    </div>
+    <div class="small-4 columns">
+        <a href="https://www.smu.edu/Dedman/Academics/Departments/Psychology"><img src="/lab-website-home/images/smu_hitop_github.png"></a>
+    </div>
+  </div>
   </div><!-- /#footer -->
 </footer>
