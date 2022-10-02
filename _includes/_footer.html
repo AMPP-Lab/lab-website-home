@@ -8,19 +8,19 @@
 <footer id="footer-content" class="bg-grau">
   <div id="footer">
     <div class="row">
-      <div class="medium-6 large-6 columns">
-        <section id="subfooter-left" class="small-12 medium-6 columns">
+      <div class="small-8 columns">
          <p>
-            <a href="https://ampp-lab.github.io/lab-website-home/about/">ABOUT THIS SITE</a>
+         <a href="https://ampp-lab.github.io/lab-website-home/about/">ABOUT THIS SITE</a>
          </p>
-         </section>
-        <section id="subfooter-left" class="small-12 medium-6 columns">
-          <ul class="inline-list social-icons">
-          {% for social_item in site.data.socialmedia %}
-            <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
-          {% endfor %}
-          </ul>
-        </section>
+         <div class="row">
+            <div class="small-8 columns">
+               <ul class="inline-list social-icons">
+                  {% for social_item in site.data.socialmedia %}
+                     <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
+                  {% endfor %}
+               </ul>
+            </div>
+         </div>
       </div>
       <!-- /.large-6.columns -->
       <div class="medium-6 large-6 columns">
