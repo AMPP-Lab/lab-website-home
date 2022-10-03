@@ -24,7 +24,7 @@
       title: "Professional LinkedIn Account"
     - name: Google Scholar 
       url: https://scholar.google.com/citations?user=ysLQBYIAAAAJ&hl=en
-      class: ai-google-scholar
+      content: "\e9d4"
       title: "Google Scholar Profile"
       
 - member_name: Elizabeth
