@@ -1,6 +1,6 @@
 ## Overview
 
-This is the github repo for the AMPP Lab [website](https://ampp-lab.github.io/lab-website-home). The website uses the static site generator [jekyll](https://jekyllrb.com/) and is based on the [Feeling Responsive](https://github.com/Phlow/feeling-responsive) Jekyll theme.
+This is the github repo for the AMPP Lab [website](https://ampp-lab.github.io/lab-website-home). The website uses the static site generator [Jekyll](https://jekyllrb.com/) and is based on the [Feeling Responsive](https://github.com/Phlow/feeling-responsive) Jekyll theme.
 
 ## Editing Site Content 
 
