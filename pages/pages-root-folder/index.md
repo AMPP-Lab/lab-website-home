@@ -33,5 +33,11 @@ homepage: true
   </div>
 </div>
 
+<div class="row">
+  <div class="small-12 columns">
+    <img src="/lab-website-home/assets/img/lab_photo_2.jpg">
+  </div>
+</div>
+
 ## Research Overview
 Research in the AMPP (Assessment, Measurement, Personality, & Psychopathology) lab focuses  on measurement and assessment, structural models of psychopathology, and the validity of conceptualizations of clinical/health/personality constructs.  We believe that improved measurement and accurate representations of psychopathology and other psychologically relevant constructs, along with open science practices and ensuring high quality data, are essential for the continued advancement of clinical science.  We also investigate associations of “normal” personality traits and other individual differences with psychopathology and clinically relevant constructs.  Finally, our lab has a strong commitment to diversity and inclusion.        
