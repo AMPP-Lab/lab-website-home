@@ -22,10 +22,6 @@
       url: https://www.linkedin.com/in/carolinelee78/
       class: icon-linkedin
       title: "Professional LinkedIn Account"
-    - name: orcid
-      url: https://orcid.org/0000-0003-1928-7139
-      class: fa-brands fa-orcid
-      title: "ORCiD" 
       
 - member_name: Elizabeth
   social: 
