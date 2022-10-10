@@ -1,6 +1,6 @@
 - name: GitHub
   url: https://github.com/AMPP-Lab
-  class: fa fa-github-square
+  class: icon-github
   title: "AMPP GitHub"
 
 - name: Twitter
