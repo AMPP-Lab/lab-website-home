@@ -1,37 +1,37 @@
 - name: GitHub
   url: https://github.com/AMPP-Lab
-  class: fa-brands fa-github
+  class: icon-github
   title: "AMPP GitHub"
 
 - name: Twitter
   url: https://twitter.com/SMUPsychology/media?lang=en
-  class: fa-brands fa-twitter
+  class: icon-twitter
   title: "SMU Psychology Twitter"
 
 - member_name: Caroline
   social: 
     - name: GitHub
       url: https://github.com/carolinelee78
-      class: fa-brands fa-github
+      class: icon-github
       title: "GitHub Profile"
     - name: Twitter 
       url: https://twitter.com/HS_Caroline_Lee
-      class: fa-brands fa-twitter 
+      class: icon-twitter 
       title: "Professional Twitter Account" 
     - name: LinkedIn
       url: https://www.linkedin.com/in/carolinelee78/
-      class: fa-brands fa-linkedin-in
+      class: icon-linkedin
       title: "Professional LinkedIn Account"
       
 - member_name: Elizabeth
   social: 
     - name: GitHub
       url:  https://github.com/elicatbrain
-      class: fa-brands fa-github
+      class: icon-github
       title: "GitHub Profile"
     - name: Twitter 
       url:  https://twitter.com/youmustbethe
-      class: fa-brands fa-twitter 
+      class: icon-twitter 
       title: "Professional Twitter Account" 
  
       
