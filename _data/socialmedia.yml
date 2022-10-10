@@ -8,6 +8,13 @@
   class: icon-twitter
   title: "SMU Psychology Twitter"
 
+- member_name: Mike 
+  social: 
+    - name: Google Scholar
+      url: https://scholar.google.com/citations?user=YXK0boYAAAAJ&hl=en
+      class: icon-edit
+      title: "Google Scholar Profile"
+      
 - member_name: Caroline
   social: 
     - name: GitHub
@@ -24,7 +31,7 @@
       title: "Professional LinkedIn Account"
     - name: Google Scholar
       url: https://scholar.google.com/citations?user=ysLQBYIAAAAJ&hl=en
-      class: icon-feather
+      class: icon-edit
       title: "Google Scholar Profile"
       
 - member_name: Elizabeth
