@@ -22,10 +22,6 @@
       url: https://www.linkedin.com/in/carolinelee78/
       class: fa-brands fa-linkedin
       title: "Professional LinkedIn Account"
-    - name: Google Scholar 
-      url: https://scholar.google.com/citations?user=ysLQBYIAAAAJ&hl=en
-      class: fa-brands fa-google-scholar
-      title: "Google Scholar Profile"
       
 - member_name: Elizabeth
   social: 
