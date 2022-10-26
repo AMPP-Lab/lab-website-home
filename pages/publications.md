@@ -29,6 +29,8 @@ header:
 <h2 data-magellan-destination="2022">2022</h2>
 <a name="2022"></a>
 
+{% include publication authors="Waldman, I., King, C., Poore, H., Luningham, J., Zinbarg, R., Krueger, R., Markon, K. E., Bornovalova, M., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Conway, C., Dretsch, M., Eaton, N., Forbes, M., Forbush, K., Naragon-Gainey, K., Greene, A. L., Haltigan, J., Ivanova, M., Joyner, K., … Zald, D.</font></b>" year="in press" title="Recommendations for Adjudicating Among Alternative Structural Models of Psychopathology." journal="Clinical Psychological Science." pages=""%}
+
 {% include publication authors="<b><font color='#1b417d'>Trujillo, M.</font></b>, Brown, A., Watson, D., Croft-Caderao, K., & <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="2022" title="The Dissociative Experiences Scale: An empirical evaluation of long-standing concerns." journal="Psychology of Consciousness: Theory, Research, and Practice." pages="Advance Online Publication."%}
 
 {% include publication authors="Kucker, S. C., & <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="2022" title="Yes, but … We need reliability to advance infant work, but there’s more to consider too: Important nuances of reliability and the need to include validity." journal="Infant and Child Development," pages="e2325." %}
