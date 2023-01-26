@@ -44,4 +44,3 @@ header:
 
 {% include team_member member_name="Jane" full_name="Jane Kalinina" bio='Jane Kalinina (she/her) is a sophomore from Rockwall, TX. She is majoring in Psychology, minoring in neuroscience, and pursuing the distinction program in psychology. After earning a BS in Psychology, she plans to pursue an advanced degree in psychology in graduate school. She is interested in the connection between personality and psychopathology, especially depression and anxiety.' image="/lab-website-home/assets/img/team/Jane.jpg"%}
 
-{% include team_member member_name="Anni" full_name="Anni Ross" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
