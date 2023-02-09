@@ -9,8 +9,20 @@ header:
     image_fullwidth: "ampp_header2.png"
 ---
 
-<form name="input" method="POST" action="https://formspree.io/ampp.smu@gmail.com">
-    <label for="email"> Your Email</label>
-    <input name="email" type="email">
-    <button type="submit">Submit</button>
-</form> 
+Thank you for your interest in the AMPP Lab! To apply for a research assistant position in our lab, please provide the following information.
+
+<form
+  action="https://formspree.io/f/mqkopbqe"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
