@@ -23,13 +23,5 @@ header:
     </div>
 </div>
 
-
-<form name="input" method="POST" action="https://formspree.io/ampp.smu@gmail.com">
-    <label for="email"> Your Email</label>
-    <input name="email" type="email">
-    <button type="submit">Submit</button>
-</form> 
-
-
 <h3>Lab Email</h3>
 <a href="mailto:ampp.smu@gmail.com"> ampp.smu@gmail.com </a>
