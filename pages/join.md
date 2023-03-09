@@ -16,4 +16,4 @@ Dr. Chmielewski may be accepting graduate students for Fall 2023. If you’re in
 
 <h3>Research Assistants</h3>
 
-If you'd like to join the AMPP Lab, please complete the <a href="https://smu.az1.qualtrics.com/jfe/form/SV_abBjsZdOSJouuma"> online appication </a>. Accepted RAs can enroll in PSYC 3099 (0 credits), 3299 (2 credits), or 3399 (3 credits). 
+If you'd like to join the AMPP Lab, complete the <a href="https://smu.az1.qualtrics.com/jfe/form/SV_abBjsZdOSJouuma"> online appication </a>. Accepted RAs can enroll in PSYC 3099 (0 credits), 3299 (2 credits), or 3399 (3 credits). 
