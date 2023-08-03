@@ -11,6 +11,7 @@ header:
 
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
+    <li data-magellan-arrival="2023"><a href="#2023">2023</a></li>
     <li data-magellan-arrival="2022"><a href="#2022">2022</a></li>
     <li data-magellan-arrival="2021"><a href="#2021">2021</a></li>
     <li data-magellan-arrival="2020"><a href="#2020">2020</a></li>
@@ -26,10 +27,13 @@ header:
   </ul>
 </div>
 
+<h2 data-magellan-destination="2023">2023</h2>
+<a name="2023"></a>
+
+{% include publication authors="Waldman, I., King, C., Poore, H., Luningham, J., Zinbarg, R., Krueger, R., Markon, K. E., Bornovalova, M., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Conway, C., Dretsch, M., Eaton, N., Forbes, M., Forbush, K., Naragon-Gainey, K., Greene, A. L., Haltigan, J., Ivanova, M., Joyner, K., … Zald, D." year="2023" title="Recommendations for Adjudicating Among Alternative Structural Models of Psychopathology." journal="Clinical Psychological Science." pages="" volume="11," issue="(4),"%}
+
 <h2 data-magellan-destination="2022">2022</h2>
 <a name="2022"></a>
-
-{% include publication authors="Waldman, I., King, C., Poore, H., Luningham, J., Zinbarg, R., Krueger, R., Markon, K. E., Bornovalova, M., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Conway, C., Dretsch, M., Eaton, N., Forbes, M., Forbush, K., Naragon-Gainey, K., Greene, A. L., Haltigan, J., Ivanova, M., Joyner, K., … Zald, D." year="in press" title="Recommendations for Adjudicating Among Alternative Structural Models of Psychopathology." journal="Clinical Psychological Science." pages=""%}
 
 {% include publication authors="<b><font color='#1b417d'>Trujillo, M.</font></b>, Brown, A., Watson, D., Croft-Caderao, K., & <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="2022" title="The Dissociative Experiences Scale: An empirical evaluation of long-standing concerns." journal="Psychology of Consciousness: Theory, Research, and Practice." pages="Advance Online Publication."%}
 
