@@ -32,6 +32,8 @@ header:
 
 {% include publication authors="Waldman, I., King, C., Poore, H., Luningham, J., Zinbarg, R., Krueger, R., Markon, K. E., Bornovalova, M., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Conway, C., Dretsch, M., Eaton, N., Forbes, M., Forbush, K., Naragon-Gainey, K., Greene, A. L., Haltigan, J., Ivanova, M., Joyner, K., … Zald, D." year="2023" title="Recommendations for Adjudicating Among Alternative Structural Models of Psychopathology." journal="Clinical Psychological Science." pages="616–640." volume="11," issue="(4),"%}
 
+<hr> 
+
 <h2 data-magellan-destination="2022">2022</h2>
 <a name="2022"></a>
 
