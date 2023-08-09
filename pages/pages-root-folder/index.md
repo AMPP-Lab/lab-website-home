@@ -30,7 +30,8 @@ homepage: true
 <!-- Add images to <div class="fotorama"></div> -->
 <div class="fotorama">
   <img src="/lab-website-home/assets/img/lab_photo_1.jpeg">
-  <img src="/lab-website-home/assets/img/lab_photo_2.png">
+  <img src="/lab-website-home/assets/img/lab_photo_2.jpeg">
+  <img src="/lab-website-home/assets/img/lab_photo_3.jpeg">
 </div>
 
 ## Research Overview
