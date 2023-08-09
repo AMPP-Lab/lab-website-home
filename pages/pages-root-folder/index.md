@@ -27,16 +27,10 @@ homepage: true
 
 ---
 
-<div class="row">
-  <div class="small-12 columns">
-    <img src="/lab-website-home/assets/img/lab_photo_1.jpg">
-  </div>
-</div>
-
-<div class="row">
-  <div class="small-12 columns">
-    <img src="/lab-website-home/assets/img/lab_photo_2.jpg">
-  </div>
+<!-- Add images to <div class="fotorama"></div> -->
+<div class="fotorama">
+  <img src="/lab-website-home/assets/img/lab_photo_1.jpeg">
+  <img src="/lab-website-home/assets/img/lab_photo_2.png">
 </div>
 
 ## Research Overview
