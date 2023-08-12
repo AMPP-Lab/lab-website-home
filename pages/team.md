@@ -36,11 +36,18 @@ header:
 <h2 data-magellan-destination="Research Assistants">Research Assistants</h2>
 <a name="Research Assistants"></a>
 
-{% include team_member member_name="Mary-Kate" full_name="Mary-Kate Bennett" bio='Mary-Kate Bennett (she/her) is a junior from The Woodlands, TX. She is a part of the University Honors Program and is majoring in psychology with minors in neuroscience and cognitive science. After finishing her undergraduate degree, Mary-Kate plans to pursue a masters degree in clinical psychology and her specific interests include personality, psychopathology, and criminal psychology. She&#39;s involved with many organizations on campus such as Mental Health Matters, Alpha Chi Omega, Psi Chi, University Honors Program, and STUMO. Additionally, she works as an academic tutor for high school students and plays classical piano in her free time.' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
+{% include team_member member_name="Maddie" full_name="Maddie Appel" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
 
-{% include team_member member_name="Myles" full_name="Myles Boateng" bio='Myles Boateng (he/him) is from Carrollton, Texas and has joined the AMPP lab as an undergraduate research assistant as of Fall 2022.  He is a senior majoring in psychology with plans to pursue counseling in graduate school and become an established practitioner. Myles is interested in personality, psychopathology, and how trauma affects the body.' image="/lab-website-home/assets/img/team/Myles.jpg"%}
+{% include team_member member_name="Mary-Kate" full_name="Mary-Kate Bennett" bio='Mary-Kate Bennett (she/her) is a junior from The Woodlands, TX. She is a part of the University Honors Program and is majoring in psychology with minors in neuroscience and cognitive science. After finishing her undergraduate degree, Mary-Kate plans to pursue a masters degree in clinical psychology and her specific interests include personality, psychopathology, and criminal psychology. She&#39;s involved with many organizations on campus such as Mental Health Matters, Alpha Chi Omega, Psi Chi, University Honors Program, and STUMO. Additionally, she works as an academic tutor for high school students and plays classical piano in her free time.' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
 
 {% include team_member member_name="Creyton" full_name="Creyton Hunt" bio='Creyton Hunt (he/him) is from Overland Park, Kansas and has been an undergraduate research assistant in the AMPP lab since 2021. He is a junior majoring in biological sciences and minoring in Spanish as well as health and society. His interests in the field of psychology include psychometrics and neuropsychology. After graduation, Creyton plans to attend medical school in hopes of becoming a physician.' image="/lab-website-home/assets/img/team/Creyton.jpg"%}
 
 {% include team_member member_name="Jane" full_name="Jane Kalinina" bio='Jane Kalinina (she/her) is a sophomore from Rockwall, TX. She is majoring in Psychology, minoring in neuroscience, and pursuing the distinction program in psychology. After earning a BS in Psychology, she plans to pursue an advanced degree in psychology in graduate school. She is interested in the connection between personality and psychopathology, especially depression and anxiety.' image="/lab-website-home/assets/img/team/Jane.jpg"%}
+
+{% include team_member member_name="Kaitlyn" full_name="Kaitlyn Polhemus" bio='' image="/lab-website-home/assets/img/team/Jane.jpg"%}
+
+{% include team_member member_name="Jena" full_name="Jena Scott" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
+
+{% include team_member member_name="Faye" full_name="Faye Steele" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
+
 
