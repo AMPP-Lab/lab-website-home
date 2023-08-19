@@ -44,11 +44,7 @@ header:
 
 {% include team_member member_name="Jane" full_name="Jane Kalinina" bio='Jane Kalinina (she/her) is a sophomore from Rockwall, TX. She is majoring in Psychology, minoring in neuroscience, and pursuing the distinction program in psychology. After earning a BS in Psychology, she plans to pursue an advanced degree in psychology in graduate school. She is interested in the connection between personality and psychopathology, especially depression and anxiety.' image="/lab-website-home/assets/img/team/Jane.jpg"%}
 
-{% include team_member member_name="Kaitlyn" full_name="Kaitlyn Polhemus" bio='Kaitlyn Polhemus (she/her) is a junior from Las Vegas, NV. She is majoring in psychology with minors in cognitive science and anthropology. Kaitlyn’s academic journey is fueled by her passion for understanding the human mind and behavior. Her interests in the field of psychology include forensic and criminal psychology, personality, and psychopathology. After undergrad, Kaitlyn hopes to attend graduate school and eventually work as a forensic or criminal psychologist.' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
-
-
-
-
+{% include team_member member_name="Kaitlyn" full_name="Kaitlyn Polhemus" bio='Kaitlyn Polhemus (she/her) is a junior from Las Vegas, NV. She is majoring in psychology with minors in cognitive science and anthropology. Kaitlyn’s academic journey is fueled by her passion for understanding the human mind and behavior. Her interests in the field of psychology include forensic and criminal psychology, personality, and psychopathology. After undergrad, Kaitlyn hopes to attend graduate school and eventually work as a forensic or criminal psychologist.' image="/lab-website-home/assets/img/team/Kaitlyn.jpeg"%}
 
 {% include team_member member_name="Jena" full_name="Jena Scott" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
 
