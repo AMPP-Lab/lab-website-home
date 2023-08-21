@@ -46,7 +46,7 @@ header:
 
 {% include team_member member_name="Kaitlyn" full_name="Kaitlyn Polhemus" bio='Kaitlyn Polhemus (she/her) is a junior from Las Vegas, NV. She is majoring in psychology with minors in cognitive science and anthropology. Kaitlyn’s academic journey is fueled by her passion for understanding the human mind and behavior. Her interests in the field of psychology include forensic and criminal psychology, personality, and psychopathology. After undergrad, Kaitlyn hopes to attend graduate school and eventually work as a forensic or criminal psychologist.' image="/lab-website-home/assets/img/team/Kaitlyn.jpg"%}
 
-{% include team_member member_name="Jena" full_name="Jena Scott" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
+{% include team_member member_name="Jena" full_name="Jena Scott" bio='Jena Scott is a graduate of Southern Methodist University. She earned her Bachelor’s degree in Marketing with a Minor in Advertising in May of 2022. Upon graduation, Jena’s passion for mental health and psychology inspired her to leave the corporate world to pursue a career in counseling. In a couple of years, she plans to go back to school to earn her master’s degree and become a licensed therapist. Her interests in psychology include understanding the complexity and measurement of personality and mood disorders. Outside of the lab, Jena volunteers at the North Texas Suicide Hotline and volunteers for Children’s Health Hospital.' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
 
 {% include team_member member_name="Faye" full_name="Faye Steele" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
 
