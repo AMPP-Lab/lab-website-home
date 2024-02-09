@@ -58,5 +58,6 @@ header:
 
 {% include team_member member_name="Creyton" full_name="Creyton Hunt" bio='Creyton Hunt (he/him) was a research assistant in the AMPP Lab from Spring 2022 to Spring 2024. He will be attending the University of Kansas School of Medicine in Fall 2024 following his graduation.' image="/lab-website-home/assets/img/team/Creyton.jpg"%}
 
+{% include team_member member_name="Myles" full_name="Myles Boateng" bio='Myles Boateng (he/him) was a research assistant in the AMPP Lab from Fall 2022 to Spring 2023. He is pursuing his Master's degree in Counseling at SMU.' image="/lab-website-home/assets/img/team/Myles.jpg"%}
 
  
