@@ -37,19 +37,11 @@ header:
 <h2 data-magellan-destination="Research Assistants">Research Assistants</h2>
 <a name="Research Assistants"></a>
 
+{% include team_member member_name="Deeksha" full_name="Deeksha Vivekanand" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
+
 {% include team_member member_name="Maddie" full_name="Maddie Appel" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
 
-{% include team_member member_name="Mary-Kate" full_name="Mary-Kate Bennett" bio='Mary-Kate Bennett (she/her) is a junior from The Woodlands, TX. She is a part of the University Honors Program and is majoring in psychology with minors in neuroscience and cognitive science. After finishing her undergraduate degree, Mary-Kate plans to pursue a masters degree in clinical psychology and her specific interests include personality, psychopathology, and criminal psychology. She&#39;s involved with many organizations on campus such as Mental Health Matters, Alpha Chi Omega, Psi Chi, University Honors Program, and STUMO. Additionally, she works as an academic tutor for high school students and plays classical piano in her free time.' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
-
 {% include team_member member_name="Naisha" full_name="Naisha Hasan" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
-
-{% include team_member member_name="Jane" full_name="Jane Kalinina" bio='Jane Kalinina (she/her) is a sophomore from Rockwall, TX. She is majoring in Psychology, minoring in neuroscience, and pursuing the distinction program in psychology. After earning a BS in Psychology, she plans to pursue an advanced degree in psychology in graduate school. She is interested in the connection between personality and psychopathology, especially depression and anxiety.' image="/lab-website-home/assets/img/team/Jane.jpg"%}
-
-{% include team_member member_name="Kaitlyn" full_name="Kaitlyn Polhemus" bio='Kaitlyn Polhemus (she/her) is a junior from Las Vegas, NV. She is majoring in psychology with minors in cognitive science and anthropology. Kaitlyn’s academic journey is fueled by her passion for understanding the human mind and behavior. Her interests in the field of psychology include forensic and criminal psychology, personality, and psychopathology. After undergrad, Kaitlyn hopes to attend graduate school and eventually work as a forensic or criminal psychologist.' image="/lab-website-home/assets/img/team/Kaitlyn.jpg"%}
-
-{% include team_member member_name="Jena" full_name="Jena Scott" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
-
-{% include team_member member_name="Faye" full_name="Faye Steele" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
 
 {% include team_member member_name="Besiana" full_name="Besiana Tela" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
 
