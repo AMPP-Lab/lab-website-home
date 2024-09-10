@@ -11,6 +11,7 @@ header:
 
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
+    <li data-magellan-arrival="2023"><a href="#2023">2024</a></li>
     <li data-magellan-arrival="2023"><a href="#2023">2023</a></li>
     <li data-magellan-arrival="2022"><a href="#2022">2022</a></li>
     <li data-magellan-arrival="2021"><a href="#2021">2021</a></li>
@@ -26,6 +27,13 @@ header:
     <li data-magellan-arrival="All"><a href="#All">All</a></li>
   </ul>
 </div>
+
+<h2 data-magellan-destination="2024">2024</h2>
+<a name="2024"></a>
+
+{% include publication authors="Baldour-Wang, M., Kotov, R., Gámez, W., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Ruggero, C. J., Eaton, N.." year="2024" title="The structure of experiential avoidance and external validity: An investigation of the Multidimensional Experiential Avoidance Questionnaire." journal="Journal of Psychopathology and Behavioral Assessment."%}
+
+<hr>
 
 <h2 data-magellan-destination="2023">2023</h2>
 <a name="2023"></a>
