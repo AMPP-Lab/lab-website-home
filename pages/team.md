@@ -37,18 +37,6 @@ header:
 <h2 data-magellan-destination="Research Assistants">Research Assistants</h2>
 <a name="Research Assistants"></a>
 
-{% include team_member member_name="Maddie" full_name="Maddie Appel" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
-
-{% include team_member member_name="Naisha" full_name="Naisha Hasan" bio='Naisha Hasan (she/her) is a senior at Southern Methodist University, pursuing a Bachelor of Science in Psychology with minors in Statistical Science and History. Her primary interest lies in enhancing psychometric assessments to gain deeper insights into individual and group behavior. Naisha aims to use her knowledge of psychometrics and personality to improve workplace efficiency and strengthen leadership dynamics.' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
-
-{% include team_member member_name="Monica" full_name="Monica Montanez" bio='Monica (she/her) is a sophomore at SMU majoring in Psychology with minors in Cognitive Science, Religious Studies, and Women's and Gender Studies. Her favorite color is yellow, and she loves learning about psychopathology.' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
-
-{% include team_member member_name="Besiana" full_name="Besiana Tela" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
-
-{% include team_member member_name="Deeksha" full_name="Deeksha Vivekanand" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
-
-{% include team_member member_name="Donielle" full_name="Donielle Woodard" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
-
 <h2 data-magellan-destination="Lab Alumni">Lab Alumni</h2>
 <a name="Lab Alumni"></a>
 
