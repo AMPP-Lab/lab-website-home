@@ -31,7 +31,9 @@ header:
 <h2 data-magellan-destination="2024">2024</h2>
 <a name="2024"></a>
 
-{% include publication authors="Baldour-Wang, M., Kotov, R., Gámez, W., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Ruggero, C. J., Eaton, N.." year="2024" title="The structure of experiential avoidance and external validity: An investigation of the Multidimensional Experiential Avoidance Questionnaire." journal="Journal of Psychopathology and Behavioral Assessment." pages="In Press."%}
+{% include publication authors="Kucker, S. C., Jhaveri, S., Guevara, O., <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="2024" title="Measuring temperament in developmental research: A thin-slice approach to capturing temperament in infants and toddlers." journal="Developmental Psychology" pages="Advance online publication."%}
+
+{% include publication authors="Baldour-Wang, M., Kotov, R., Gámez, W., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Ruggero, C. J., Eaton, N.." year="2024" title="The structure of experiential avoidance and external validity: An investigation of the Multidimensional Experiential Avoidance Questionnaire." journal="Journal of Psychopathology and Behavioral Assessment." pages="1-19."%}
 
 <hr>
 
