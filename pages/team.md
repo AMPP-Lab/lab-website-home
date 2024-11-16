@@ -47,7 +47,7 @@ header:
 
 {% include team_member member_name="Deeksha" full_name="Deeksha Vivekanand" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
 
-{% include team_member member_name="Deeksha" full_name="Donielle Woodard" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
+{% include team_member member_name="Donielle" full_name="Donielle Woodard" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
 
 <h2 data-magellan-destination="Lab Alumni">Lab Alumni</h2>
 <a name="Lab Alumni"></a>
