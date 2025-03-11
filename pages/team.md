@@ -45,7 +45,7 @@ header:
 
 {% include team_member member_name="Besiana" full_name="Besiana Tela" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
 
-{% include team_member member_name="Deeksha" full_name="Deeksha Vivekanand" bio='Deeksha Vivekanand (she/her) is a senior at Southern Methodist University (SMU), currently pursuing a Bachelor of Science in Psychology with a minor in Corporate Communications and Public Affairs. With a strong interest in fostering inclusive and collaborative organizational cultures, Deeksha aims to leverage data analysis to drive positive change. She is passionate about applying her knowledge in psychometric assessments and organizational communication to help organizations navigate transitions and improve overall performance.' image="/lab-website-home/assets/img/team/Deeksha.jpg"%}
+{% include team_member member_name="Deeksha" full_name="Deeksha Vivekanand" bio='Deeksha Vivekanand (she/her) is a senior at Southern Methodist University (SMU), currently pursuing a Bachelor of Science in Psychology with a minor in Corporate Communications and Public Affairs. With a strong interest in fostering inclusive and collaborative organizational cultures, Deeksha aims to leverage data analysis to drive positive change. She is passionate about applying her knowledge in psychometric assessments and organizational communication to help organizations navigate transitions and improve overall performance.' image="/lab-website-home/assets/img/team/Deeksha.png"%}
 
 {% include team_member member_name="Donielle" full_name="Donielle Woodard" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
 
