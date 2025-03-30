@@ -29,11 +29,9 @@ homepage: true
 
 <!-- Add images to <div class="fotorama"></div> -->
 <div class="fotorama">
-  <img src="/lab-website-home/assets/img/lab_photo_1.jpeg">
+  <img src="/lab-website-home/assets/img/lab_photo_6.jpeg" data-caption="HiTOP 2025 - Denver, CO">
   <img src="/lab-website-home/assets/img/lab_photo_4.jpg" data-caption="SRP 2023 - St. Louis, MO">
-  <img src="/lab-website-home/assets/img/lab_photo_5.jpg" data-caption="SRP 2023 - St. Louis, MO">
   <img src="/lab-website-home/assets/img/lab_photo_2.jpeg">
-  <img src="/lab-website-home/assets/img/lab_photo_3.jpeg">
 </div>
 
 ## Research Overview
