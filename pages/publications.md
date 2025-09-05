@@ -32,7 +32,7 @@ header:
 <h2 data-magellan-destination="2025">2025</h2>
 <a name="2025"></a>
 
-{% include publication authors="<b><font color='#1b417d'>Chmielewski, M.</font></b>, <b><font color='#1b417d'>Jimenez, A.</font></b>,Gum, M. A." year="2025" title="Shifts in Employment Settings & Activities of Clinical Psychology PhD Graduates and Implications for Training." journal="Training and Education in Professional Psychology." pages="(in press)."%}
+{% include publication authors="<b><font color='#1b417d'>Chmielewski, M.</font></b>, <b><font color='#1b417d'>Jimenez, A.</font></b>, Gum, M. A." year="2025" title="Shifts in Employment Settings & Activities of Clinical Psychology PhD Graduates and Implications for Training." journal="Training and Education in Professional Psychology." pages="(in press)."%}
 
 <hr> 
 
