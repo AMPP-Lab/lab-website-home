@@ -11,7 +11,8 @@ header:
 
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
-    <li data-magellan-arrival="2023"><a href="#2023">2024</a></li>
+    <li data-magellan-arrival="2025"><a href="#2025">2025</a></li>
+    <li data-magellan-arrival="2024"><a href="#2024">2024</a></li>
     <li data-magellan-arrival="2023"><a href="#2023">2023</a></li>
     <li data-magellan-arrival="2022"><a href="#2022">2022</a></li>
     <li data-magellan-arrival="2021"><a href="#2021">2021</a></li>
@@ -27,6 +28,13 @@ header:
     <li data-magellan-arrival="All"><a href="#All">All</a></li>
   </ul>
 </div>
+
+<h2 data-magellan-destination="2025">2025</h2>
+<a name="2025"></a>
+
+{% include publication authors="<b><font color='#1b417d'>Chmielewski, M.</font></b>, <b><font color='#1b417d'>Jimenez, A.</font></b>,Gum, M. A." year="2025" title="Shifts in Employment Settings & Activities of Clinical Psychology PhD Graduates and Implications for Training." journal="Training and Education in Professional Psychology." pages="(in press)."%}
+
+<hr> 
 
 <h2 data-magellan-destination="2024">2024</h2>
 <a name="2024"></a>
