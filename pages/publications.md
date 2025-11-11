@@ -45,7 +45,7 @@ header:
 
 {% include publication authors="Baldour-Wang, M., Kotov, R., Gámez, W., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Ruggero, C. J., Eaton, N.." year="2024" title="The structure of experiential avoidance and external validity: An investigation of the Multidimensional Experiential Avoidance Questionnaire." journal="Journal of Psychopathology and Behavioral Assessment." pages="1-19."%}
 
-{% include publication authors="<b><font color='#1b417d'>Trujillo, M.</font></b>, Brown, A., Watson, D., Croft-Caderao, K., & <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="2024" title="The Dissociative Experiences Scale: An empirical evaluation of long-standing concerns." journal="Psychology of Consciousness: Theory, Research, and Practice," pages="477-492." volume="11" issue = "(4),%}
+{% include publication authors="<b><font color='#1b417d'>Trujillo, M.</font></b>, Brown, A., Watson, D., Croft-Caderao, K., & <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="2024" title="The Dissociative Experiences Scale: An empirical evaluation of long-standing concerns." journal="Psychology of Consciousness: Theory, Research, and Practice," pages="477-492." volume="11" issue = "(4),"%}
 
 <hr>
 
