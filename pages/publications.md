@@ -32,36 +32,38 @@ header:
 <h2 data-magellan-destination="2025">2025</h2>
 <a name="2025"></a>
 
-{% include publication authors="<b><font color='#1b417d'>Chmielewski, M.</font></b>, <b><font color='#1b417d'>Jimenez, A.</font></b>, Gum, M. A." year="2025" title="Shifts in Employment Settings & Activities of Clinical Psychology PhD Graduates and Implications for Training." journal="Training and Education in Professional Psychology." pages="(in press)."%}
+{% include publication authors="Jouriles, E. N., <b><font color='#1b417d'>Lee, H. C.</font></b>, Sitton, M. J., Reedy, M., <b><font color='#1b417d'>Chmielewski, M.</font></b>, McDonald, R., & Mahoney, A." year="2025" title="Religious and spiritual struggles among adolescents who have experienced sexual abuse: Associations with trauma symptoms." journal="Child Abuse and Neglect," volume="170," pages="107766."%}
+
+{% include publication authors="<b><font color='#1b417d'>Chmielewski, M.</font></b>, <b><font color='#1b417d'>Jimenez, A.</font></b>, Gum, M. A." year="2025" title="Shifts in Employment Settings & Activities of Clinical Psychology PhD Graduates and Implications for Training." journal="Training and Education in Professional Psychology," volume="19" issue="(4)," pages="270-274."%}
 
 <hr> 
 
 <h2 data-magellan-destination="2024">2024</h2>
 <a name="2024"></a>
 
-{% include publication authors="Kucker, S. C., Jhaveri, S., Guevara, O., <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="2024" title="Measuring temperament in developmental research: A thin-slice approach to capturing temperament in infants and toddlers." journal="Developmental Psychology." pages="Advance online publication."%}
+{% include publication authors="Kucker, S. C., Jhaveri, S., <b><font color='#1b417d'>Guevara, O.</font></b>, <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="2024" title="Measuring temperament in developmental research: A thin-slice approach to capturing temperament in infants and toddlers." journal="Developmental Psychology," pages=168-178." volume="61" issue="(1),"%}
 
 {% include publication authors="Baldour-Wang, M., Kotov, R., Gámez, W., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Ruggero, C. J., Eaton, N.." year="2024" title="The structure of experiential avoidance and external validity: An investigation of the Multidimensional Experiential Avoidance Questionnaire." journal="Journal of Psychopathology and Behavioral Assessment." pages="1-19."%}
+
+{% include publication authors="<b><font color='#1b417d'>Trujillo, M.</font></b>, Brown, A., Watson, D., Croft-Caderao, K., & <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="2024" title="The Dissociative Experiences Scale: An empirical evaluation of long-standing concerns." journal="Psychology of Consciousness: Theory, Research, and Practice," pages="477-492." volume="11" issue = "(4),%}
 
 <hr>
 
 <h2 data-magellan-destination="2023">2023</h2>
 <a name="2023"></a>
 
-{% include publication authors="Waldman, I., King, C., Poore, H., Luningham, J., Zinbarg, R., Krueger, R., Markon, K. E., Bornovalova, M., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Conway, C., Dretsch, M., Eaton, N., Forbes, M., Forbush, K., Naragon-Gainey, K., Greene, A. L., Haltigan, J., Ivanova, M., Joyner, K., … Zald, D." year="2023" title="Recommendations for Adjudicating Among Alternative Structural Models of Psychopathology." journal="Clinical Psychological Science." pages="616–640." volume="11," issue="(4),"%}
+{% include publication authors="Waldman, I., King, C., Poore, H., Luningham, J., Zinbarg, R., Krueger, R., Markon, K. E., Bornovalova, M., <b><font color='#1b417d'>Chmielewski, M.</font></b>, Conway, C., Dretsch, M., Eaton, N., Forbes, M., Forbush, K., Naragon-Gainey, K., Greene, A. L., Haltigan, J., Ivanova, M., Joyner, K., … Zald, D." year="2023" title="Recommendations for Adjudicating Among Alternative Structural Models of Psychopathology." journal="Clinical Psychological Science," pages="616–640." volume="11" issue="(4),"%}
 
 <hr> 
 
 <h2 data-magellan-destination="2022">2022</h2>
 <a name="2022"></a>
 
-{% include publication authors="<b><font color='#1b417d'>Trujillo, M.</font></b>, Brown, A., Watson, D., Croft-Caderao, K., & <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="2022" title="The Dissociative Experiences Scale: An empirical evaluation of long-standing concerns." journal="Psychology of Consciousness: Theory, Research, and Practice." pages="Advance Online Publication."%}
-
 {% include publication authors="Kucker, S. C., & <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="2022" title="Yes, but … We need reliability to advance infant work, but there’s more to consider too: Important nuances of reliability and the need to include validity." journal="Infant and Child Development," pages="e2325." %}
 
 {% include publication authors="Hasratian, A. M., Meuret, A. E., <b><font color='#1b417d'>Chmielewski, M.</font></b>, & Ritz, T." year="2022" title="An Examination of the RDoC Negative Valence Systems Domain Constructs and the Self-Reports Unit of Analysis." journal="Behavior Therapy." %}
 
-{% include publication authors="Tabak, B. A., Gupta, D., Sunahara, C. S., Alvi, T., Wallmark, Z., Lee, J., Fulford, D., Hudson, N. W., & <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="2022" title="Environmental sensitivity predicts interpersonal sensitivity above and beyond Big Five personality traits." journal="Journal of Research in Personality," volume="98," pages="104210." %}
+{% include publication authors="Tabak, B. A., Gupta, D., Sunahara, C. S., Alvi, T., Wallmark, Z., Lee, J., Fulford, D., Hudson, N. W., & <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="2022" title="Environmental sensitivity predicts interpersonal sensitivity above and beyond Big Five personality traits." journal="Journal of Research in Personality," volume="98" pages="104210." %}
 
 {% include publication authors="<b><font color='#1b417d'>Jimenez, A.</font></b>, McMahon, T. P., Watson, D., & Naragon-Gainey, K." year="2022" title="Dysphoria and well-being in daily life: Development and validation of ecological momentary assessment scales." journal="Psychological Assessment," volume="34" issue="(6)," pages="546-557." %}
 
