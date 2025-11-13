@@ -32,6 +32,8 @@ header:
 <h2 data-magellan-destination="2025">2025</h2>
 <a name="2025"></a>
 
+{% include publication authors="<b><font color='#1b417d'>Chmielewski, M.</font></b>, <b><font color='#1b417d'>Jimenez, A.</font></b>, Gum, M. A." year="2025" title="Are Psychological Internships Necessary: Links Between Internship Sites and Subsequent Career Settings and Activities." journal="Training and Education in Professional Psychology." pages="(in press)."%}
+
 {% include publication authors="Jouriles, E. N., <b><font color='#1b417d'>Lee, H. C.</font></b>, Sitton, M. J., Reedy, M., <b><font color='#1b417d'>Chmielewski, M.</font></b>, McDonald, R., & Mahoney, A." year="2025" title="Religious and spiritual struggles among adolescents who have experienced sexual abuse: Associations with trauma symptoms." journal="Child Abuse and Neglect," volume="170," pages="107766."%}
 
 {% include publication authors="<b><font color='#1b417d'>Chmielewski, M.</font></b>, <b><font color='#1b417d'>Jimenez, A.</font></b>, Gum, M. A." year="2025" title="Shifts in Employment Settings & Activities of Clinical Psychology PhD Graduates and Implications for Training." journal="Training and Education in Professional Psychology," volume="19" issue="(4)," pages="270-274."%}
