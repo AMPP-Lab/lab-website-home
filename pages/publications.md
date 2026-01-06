@@ -11,6 +11,7 @@ header:
 
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
+    <li data-magellan-arrival="2026"><a href="#2025">2026</a></li>
     <li data-magellan-arrival="2025"><a href="#2025">2025</a></li>
     <li data-magellan-arrival="2024"><a href="#2024">2024</a></li>
     <li data-magellan-arrival="2023"><a href="#2023">2023</a></li>
@@ -28,6 +29,11 @@ header:
     <li data-magellan-arrival="All"><a href="#All">All</a></li>
   </ul>
 </div>
+
+<h2 data-magellan-destination="2026">2026</h2>
+<a name="2026"></a>
+
+{% include publication authors="<b><font color='#1b417d'>Lee, H.C.</font></b>, <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="2025" title="Measurement Invariance of HiTOP Dimensions Across Sociodemographic Covariates: A Moderated Nonlinear Factor Analysis Approach." journal="Journal of Psychopathology and Clinical Science." pages="(in press)."%}
 
 <h2 data-magellan-destination="2025">2025</h2>
 <a name="2025"></a>
