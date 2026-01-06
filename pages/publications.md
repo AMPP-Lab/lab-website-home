@@ -33,12 +33,12 @@ header:
 <h2 data-magellan-destination="2026">2026</h2>
 <a name="2026"></a>
 
-{% include publication authors="<b><font color='#1b417d'>Lee, H.C.</font></b>, <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="2025" title="Measurement Invariance of HiTOP Dimensions Across Sociodemographic Covariates: A Moderated Nonlinear Factor Analysis Approach." journal="Journal of Psychopathology and Clinical Science." pages="(in press)."%}
+{% include publication authors="<b><font color='#1b417d'>Lee, H.C.</font></b>, <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="in press" title="Measurement Invariance of HiTOP Dimensions Across Sociodemographic Covariates: A Moderated Nonlinear Factor Analysis Approach." journal="Journal of Psychopathology and Clinical Science."%}
 
 <h2 data-magellan-destination="2025">2025</h2>
 <a name="2025"></a>
 
-{% include publication authors="<b><font color='#1b417d'>Chmielewski, M.</font></b>, <b><font color='#1b417d'>Jimenez, A.</font></b>, Gum, M. A." year="2025" title="Are Psychological Internships Necessary: Links Between Internship Sites and Subsequent Career Settings and Activities." journal="Training and Education in Professional Psychology." pages="(in press)."%}
+{% include publication authors="<b><font color='#1b417d'>Chmielewski, M.</font></b>, <b><font color='#1b417d'>Jimenez, A.</font></b>, Gum, M. A." year="in press" title="Are Psychological Internships Necessary: Links Between Internship Sites and Subsequent Career Settings and Activities." journal="Training and Education in Professional Psychology."%}
 
 {% include publication authors="Jouriles, E. N., <b><font color='#1b417d'>Lee, H. C.</font></b>, Sitton, M. J., Reedy, M., <b><font color='#1b417d'>Chmielewski, M.</font></b>, McDonald, R., & Mahoney, A." year="2025" title="Religious and spiritual struggles among adolescents who have experienced sexual abuse: Associations with trauma symptoms." journal="Child Abuse and Neglect," volume="170," pages="107766."%}
 
