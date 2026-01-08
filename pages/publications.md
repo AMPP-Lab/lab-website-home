@@ -35,6 +35,8 @@ header:
 
 {% include publication authors="<b><font color='#1b417d'>Lee, H. C.</font></b>, <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="in press" title="Measurement Invariance of HiTOP Dimensions Across Sociodemographic Covariates: A Moderated Nonlinear Factor Analysis Approach." journal="Journal of Psychopathology and Clinical Science."%}
 
+<hr> 
+
 <h2 data-magellan-destination="2025">2025</h2>
 <a name="2025"></a>
 
