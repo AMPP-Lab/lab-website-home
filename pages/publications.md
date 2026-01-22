@@ -33,6 +33,8 @@ header:
 <h2 data-magellan-destination="2026">2026</h2>
 <a name="2026"></a>
 
+{% include publication authors="Billingsley, B., DiBello, A. M., Farris, S. G., <b><font color='#1b417d'>Lee, H. C.</font></b>, <b><font color='#1b417d'>Chmielewski, M.</font></b>, Bricker, J. B., Selby, E. A., Steinberg, M. L." year="in press" title="Examining the Psychometric Properties of the Multidimensional Experiential (MEAQ) Questionnaire in Combustible Cigarette Smokers." journal="Cognitive Behavioral Therapy."%}
+
 {% include publication authors="<b><font color='#1b417d'>Lee, H. C.</font></b>, <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="in press" title="Measurement Invariance of HiTOP Dimensions Across Sociodemographic Covariates: A Moderated Nonlinear Factor Analysis Approach." journal="Journal of Psychopathology and Clinical Science."%}
 
 <hr> 
