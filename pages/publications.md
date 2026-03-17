@@ -35,7 +35,7 @@ header:
 
 {% include publication authors="<b><font color='#1b417d'>Jimenez, A.</font></b>, Rochefort Móden, C., <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="2026" title="Assessing Experiential Avoidance: Further Testing of the AAQ-II and the MEAQ." journal="Assessment."%}
 
-{% include publication authors="Billingsley, B., DiBello, A. M., Farris, S. G., <b><font color='#1b417d'>Lee, H. C.</font></b>, <b><font color='#1b417d'>Chmielewski, M.</font></b>, Bricker, J. B., Selby, E. A., Steinberg, M. L." year="2026" title="Examining the Psychometric Properties of the Multidimensional Experiential Avoidance Questionnaire in Combustible Cigarette Smokers." journal="Cognitive Behavioral Therapy,", pages="1-13."%}
+{% include publication authors="Billingsley, B., DiBello, A. M., Farris, S. G., <b><font color='#1b417d'>Lee, H. C.</font></b>, <b><font color='#1b417d'>Chmielewski, M.</font></b>, Bricker, J. B., Selby, E. A., Steinberg, M. L." year="2026" title="Examining the Psychometric Properties of the Multidimensional Experiential Avoidance Questionnaire in Combustible Cigarette Smokers." journal="Cognitive Behavioral Therapy," pages="1-13."%}
 
 {% include publication authors="<b><font color='#1b417d'>Lee, H. C.</font></b>, <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="2026" title="Measurement Invariance of Hierarchical Taxonomy of Psychopathology Across Sociodemographic Covariates: A Moderated Nonlinear Factor Analysis Approach." journal="Journal of Psychopathology and Clinical Science."%}
 
