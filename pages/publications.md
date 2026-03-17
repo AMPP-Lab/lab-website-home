@@ -33,11 +33,11 @@ header:
 <h2 data-magellan-destination="2026">2026</h2>
 <a name="2026"></a>
 
-{% include publication authors="<b><font color='#1b417d'>Jimenez, A.</font></b>, Rochefort, C., <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="in press" title="Assessing Experiential Avoidance: Further Testing of the AAQ-II and the MEAQ." journal="Assessment."%}
+{% include publication authors="<b><font color='#1b417d'>Jimenez, A.</font></b>, Rochefort Móden, C., <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="2026" title="Assessing Experiential Avoidance: Further Testing of the AAQ-II and the MEAQ." journal="Assessment."%}
 
-{% include publication authors="Billingsley, B., DiBello, A. M., Farris, S. G., <b><font color='#1b417d'>Lee, H. C.</font></b>, <b><font color='#1b417d'>Chmielewski, M.</font></b>, Bricker, J. B., Selby, E. A., Steinberg, M. L." year="in press" title="Examining the Psychometric Properties of the Multidimensional Experiential Avoidance Questionnaire in Combustible Cigarette Smokers." journal="Cognitive Behavioral Therapy."%}
+{% include publication authors="Billingsley, B., DiBello, A. M., Farris, S. G., <b><font color='#1b417d'>Lee, H. C.</font></b>, <b><font color='#1b417d'>Chmielewski, M.</font></b>, Bricker, J. B., Selby, E. A., Steinberg, M. L." year="2026" title="Examining the Psychometric Properties of the Multidimensional Experiential Avoidance Questionnaire in Combustible Cigarette Smokers." journal="Cognitive Behavioral Therapy,", pages="1-13."%}
 
-{% include publication authors="<b><font color='#1b417d'>Lee, H. C.</font></b>, <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="in press" title="Measurement Invariance of Hierarchical Taxonomy of Psychopathology Across Sociodemographic Covariates: A Moderated Nonlinear Factor Analysis Approach." journal="Journal of Psychopathology and Clinical Science."%}
+{% include publication authors="<b><font color='#1b417d'>Lee, H. C.</font></b>, <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="2026" title="Measurement Invariance of Hierarchical Taxonomy of Psychopathology Across Sociodemographic Covariates: A Moderated Nonlinear Factor Analysis Approach." journal="Journal of Psychopathology and Clinical Science."%}
 
 {% include publication authors="<b><font color='#1b417d'>Chmielewski, M.</font></b>, <b><font color='#1b417d'>Jimenez, A.</font></b>, Gum, M. A." year="2026" title="Do internship to employment pipelines exist? Implications for graduate training." journal="Training and Education in Professional Psychology," volume="20" issue="(1)," pages="1-6."%}
 
