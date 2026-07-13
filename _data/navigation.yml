@@ -10,13 +10,6 @@
   url: "/publications/"
   side: left
 
-- title: News
-  url: "/news/"
-  side: left
-  dropdown:
-  - title: "News Archive"
-    url: "/news/archive/"
-
 - title: Join Us
   url: "/join/"
   side: left
