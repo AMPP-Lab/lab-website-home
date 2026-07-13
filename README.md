@@ -29,12 +29,6 @@ This is the github repo for the AMPP Lab [website](https://ampp-lab.github.io/la
 
 <details>
 <summary>Content</summary>
-
-<br>
-  <strong> Lab News </strong>
-<br>
-  :file_folder: <a href="https://github.com/AMPP-Lab/lab-website-home/tree/gh-pages/_posts">_posts</a> 
-<br>
   
 <br>
   <strong> Publications </strong>
