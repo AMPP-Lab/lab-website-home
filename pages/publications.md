@@ -33,6 +33,9 @@ header:
 <h2 data-magellan-destination="2026">2026</h2>
 <a name="2026"></a>
 
+{% include publication authors="Hopwood, C.J., DeYoung, C.G., Aita, S.L.,<b><font color='#1b417d'>
+Bell, E.</font></b>, Benning, S.D., Bornovalova, M., Clark, L.A., Eaton, N.R., Ebrahimi, O.V., Haywood, D., Ingram, P., Kotov, R., Levin-Aspenson, H.F., Mullins-Sweatt, S.N., Pagano, L.A., Ro, E., Simms, L.J., Wu, J., & Zimmermann, J." year="in press" title="Impairment in the Hierarchical Taxonomy of Psychopathology." journal="Psychological Assessment."%}
+
 {% include publication authors="<b><font color='#1b417d'>Jimenez, A.</font></b>, Rochefort Móden, C., <b><font color='#1b417d'>Chmielewski, M.</font></b>" year="2026" title="Assessing Experiential Avoidance: Further Testing of the AAQ-II and the MEAQ." journal="Assessment."%}
 
 {% include publication authors="Billingsley, B., DiBello, A. M., Farris, S. G., <b><font color='#1b417d'>Lee, H. C.</font></b>, <b><font color='#1b417d'>Chmielewski, M.</font></b>, Bricker, J. B., Selby, E. A., Steinberg, M. L." year="2026" title="Examining the Psychometric Properties of the Multidimensional Experiential Avoidance Questionnaire in Combustible Cigarette Smokers." journal="Cognitive Behavioral Therapy," pages="1-13."%}
