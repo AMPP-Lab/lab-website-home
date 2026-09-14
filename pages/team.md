@@ -37,15 +37,15 @@ header:
 
 {% include team_member member_name="Cai" full_name="Cai Aberle" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
 
-{% include team_member member_name="Alexa" full_name="Alexa Botello" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
+{% include team_member member_name="Alexa" full_name="Alexa Botello" bio='Alexa Botello (she/her) is graduating from Southern Methodist University in May 2027 with a B.S. in Psychology and minors in Business and Neuroscience. Her research interests include psychopathology, neuroscience, and personality, especially how these areas interact to influence behavior and functioning. She aims to better understand individual differences in behavior and psychopathology to contribute to more effective treatment and improve people’s well-being. After graduation, Alexa is considering an M.A. in Counseling or a Ph.D. in Clinical Psychology.' image="/lab-website-home/assets/img/team/Alexa.jpeg"%}
 
 {% include team_member member_name="Jordan" full_name="Jordan Kahn" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
 
-{% include team_member member_name="Liam" full_name="Liam Leahy" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
+{% include team_member member_name="Liam" full_name="Liam Leahy" bio='Liam Leahy (he/him) graduated from Clemson University in 2024 with a major in computer science and a minor in psychology, and is currently working as an app developer while also volunteering as a research assistant. Liam's interest in the study of the mind and human behavior began at Clemson University, and he hopes to eventually attend graduate school to continue his learning journey and apply his knowledge toward helping others.' image="/lab-website-home/assets/img/team/Liam.jpg"%}
 
 {% include team_member member_name="Mia" full_name="Mia Lorenz" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
 
-{% include team_member member_name="Virginia" full_name="Virginia Madden" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
+{% include team_member member_name="Virginia" full_name="Virginia Madden" bio='Virginia is a sophomore majoring in Psychology with a minor in Educational Studies. She plans to pursue graduate study in clinical psychology, potentially through a PhD program, with the goal of combining psychological research with clinical practice. Her research interests include personality, individual differences, and psychopathology, particularly how personality traits and developmental experiences contribute to the onset and expression of mental health concerns.' image="/lab-website-home/assets/img/team/Virginia.jpg"%}
 
 {% include team_member member_name="Diya" full_name="Diya Mahdawi" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
 
