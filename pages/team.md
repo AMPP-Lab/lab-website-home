@@ -43,7 +43,7 @@ header:
 
 {% include team_member member_name="Liam" full_name="Liam Leahy" bio='Liam Leahy (he/him) graduated from Clemson University in 2024 with a major in computer science and a minor in psychology, and is currently working as an app developer while also volunteering as a research assistant. Liam&#39;s interest in the study of the mind and human behavior began at Clemson University, and he hopes to eventually attend graduate school to continue his learning journey and apply his knowledge toward helping others.' image="/lab-website-home/assets/img/team/Liam.jpg"%}
 
-{% include team_member member_name="Mia" full_name="Mia Lorenz" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
+{% include team_member member_name="Mia" full_name="Mia Lorenz" bio='Mia Lorenz (she/her) is a junior working towards a Bachelors of Science in Psychology, as well as minoring in neuroscience. Her research interests include personality and eating pathology. After graduating, she plans to pursue her masters and provide evidence-based services to pediatric populations.' image="/lab-website-home/assets/img/team/Mia.jpg"%}
 
 {% include team_member member_name="Virginia" full_name="Virginia Madden" bio='Virginia Madden (she/her) is a sophomore majoring in Psychology with a minor in Educational Studies. She plans to pursue graduate study in clinical psychology, potentially through a PhD program, with the goal of combining psychological research with clinical practice. Her research interests include personality, individual differences, and psychopathology, particularly how personality traits and developmental experiences contribute to the onset and expression of mental health concerns.' image="/lab-website-home/assets/img/team/Virginia.jpg"%}
 
