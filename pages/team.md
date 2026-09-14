@@ -45,7 +45,7 @@ header:
 
 {% include team_member member_name="Mia" full_name="Mia Lorenz" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
 
-{% include team_member member_name="Virginia" full_name="Virginia Madden" bio='Virginia is a sophomore majoring in Psychology with a minor in Educational Studies. She plans to pursue graduate study in clinical psychology, potentially through a PhD program, with the goal of combining psychological research with clinical practice. Her research interests include personality, individual differences, and psychopathology, particularly how personality traits and developmental experiences contribute to the onset and expression of mental health concerns.' image="/lab-website-home/assets/img/team/Virginia.jpg"%}
+{% include team_member member_name="Virginia" full_name="Virginia Madden" bio='Virginia Madden (she/her) is a sophomore majoring in Psychology with a minor in Educational Studies. She plans to pursue graduate study in clinical psychology, potentially through a PhD program, with the goal of combining psychological research with clinical practice. Her research interests include personality, individual differences, and psychopathology, particularly how personality traits and developmental experiences contribute to the onset and expression of mental health concerns.' image="/lab-website-home/assets/img/team/Virginia.jpg"%}
 
 {% include team_member member_name="Diya" full_name="Diya Mahdawi" bio='' image="/lab-website-home/assets/img/team/headshot_placeholder.jpg"%}
 
